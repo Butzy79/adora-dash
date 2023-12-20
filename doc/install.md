@@ -5,5 +5,5 @@ Adora is designed as a SimHub Dashboard. Ensure that you have the latest SimHub 
 
 ## Installation Steps
 1. Download & Install the SimHub app: [https://www.simhubdash.com](https://www.simhubdash.com)
-3. Download & Install the latest AdoraDash [Release](https://github.com/cdemetriadis/adora-dash/releases)
-4. Configure your SimHub [Action Triggers](docs/TRIGGERS.md) to seamlessly control AdoraDash.
+3. Download & Install the latest AdoraDash [Release](https://github.com/Butzy79/adora-dash/releases/)
+4. Configure your SimHub [Action Triggers](triggers.md) to seamlessly control AdoraDash.
