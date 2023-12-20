@@ -1,7 +1,7 @@
 # Adora-Dash
 AdoraDash is a meticulously crafted SimHub Dashboard tailored for passionate SimRacing enthusiasts, offering an array of impressive features. It serves as a completely free and valuable asset for your day-to-day racing experiences.
 
-![AdoraDash](./assets/images/adoradash_v1.png)
+![AdoraDash](./src/images/adora_1_screen.png)
 
 **Presently, AdoraDash exclusively supports AssettoCorsa Competizione. As the early-access phase concludes, additional simulators will be incorporated.**
 
