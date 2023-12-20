@@ -8,3 +8,10 @@ You can set up your controller to interact with the target temperature of your t
 
 ## Strategy Time
 You can increment and decrement the strategy time in minutes. There are two actions: Strategy.Decrement_TimeInMinutes and Strategy.Increment_TimeInMinutes. Assign both to your controller to interact during your session with those values.
+
+## Set Actions Button
+In SimHub, navigate to DashStudio -> Controls, and assign triggers to the A and D buttons.
+
+- **Action A:** Controls the MFD display, allowing you to scroll between different screens such as Tyres, Map, Damages, and others that will be developed in the coming days.
+
+- **Action D:** Scrolls through Fuel values.
