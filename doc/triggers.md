@@ -4,6 +4,10 @@
 You can set up your controller to interact with some actions of Adora Plugins Controllers. 
 Some of those actions require a valid license for the Adora Plugin. To do that, in SimHub, go to the left menu, select Controls and Events. Under the Controls section, click on New mapping, and on the left, select your input controller (you can push a button on your controller to directly select it). On the left list, select the action to set with this control. Choose the input mode as "Short and Long press" or your preferred option.
 
+
+## Qualifyng delta
+You can set up your controller to interact with standings type in MFD display. There is an action named Delta.PolePositionDelta. Assign it to your controller to interact during your session with this section.
+
 ## Change Standing Type
 You can set up your controller to interact with standings type in MFD display. There is an action named Standing.StandingCup. Assign it to your controller to interact during your session with this section.
 
