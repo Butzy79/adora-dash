@@ -16,7 +16,7 @@ If you are using a DDU, please set up those controls in your DDU interface: Devi
 
 - **Action D:** Scrolls through Fuel values.
 
-![Actions](./src/images/docs/triggers/action_ad.jpg)
+![Actions](/src/images/docs/triggers/action_ad.jpg)
 
  
 ## Qualifyng delta 

@@ -17,6 +17,7 @@ Adora is designed as a SimHub Dashboard. Make sure you have the latest SimHub ve
      - If you encounter any issues or have questions, please join our Discord server.
 4. Activate your license if you have one.
     - Click on the Adora Plugin icon in SimHub.
+   
     ![AdoraDash](/src/images/docs/install/plugin.jpg)
     - Insert your license data.
     - To activate the license, you need to manually restart SimHub.
