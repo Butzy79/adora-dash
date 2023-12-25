@@ -29,7 +29,7 @@ This feature allows you to display the delta time between your best time or the 
 
 ***This option is valid only in qualifying sessions.***
 
-![Pole](./src/images/docs/triggers/pole.jpg) ![Your Best](./src/images/docs/triggers/yourbest.jpg)
+![Pole](/src/images/docs/triggers/pole.jpg) ![Your Best](/src/images/docs/triggers/yourbest.jpg)
 
 ## Standing scrolling standings 
 <sup>[___free___]</sup>
