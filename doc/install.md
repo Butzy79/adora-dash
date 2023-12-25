@@ -20,4 +20,10 @@ Adora is designed as a SimHub Dashboard. Make sure you have the latest SimHub ve
     ![AdoraDash](./src/images/docs/install/plugin.jpg)
     - Insert your license data.
     - To activate the license, you need to manually restart SimHub.
-3. The next step is to configure your SimHub [Action Buttons and Triggers](triggers.md) to seamlessly control AdoraDash.
+5. The next step is to configure your SimHub [Action Buttons and Triggers](triggers.md) to seamlessly control AdoraDash.
+
+## Discord Community
+Join the vibrant AdoraDash community on Discord!
+
+👉 [AdoraDash Discord Server](https://discord.gg/2yNzuRc62S) 👈
+
