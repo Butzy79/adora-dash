@@ -1,5 +1,6 @@
 # CHANGELOG
 ### 0.3.0 (2023-01-03)
+- New: On new lap overlay delta
 - New: Nearby cars
 - New: Added clock in Ignition Off screen
 - New: Changed transparency in Ignition Off screen
