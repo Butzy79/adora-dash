@@ -6,6 +6,7 @@
 - New: Added clock in Ignition Off screen
 - New: Changed transparency in Ignition Off screen
 - New: Activate/Deactivate MFD screens in the plugin
+- New: Track Screen (on touch)
 - Fix: MFD colors for tire pressure
 - Fix: Plugin space order
 
