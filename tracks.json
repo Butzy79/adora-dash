@@ -18,7 +18,7 @@
   "AssettoCorsaCompetizione": {
     "Silverstone": {
       "Rotation" : 90,
-      "Top" : 7,
+      "Top" : -150,
       "Left" : 2,
       "Width" : 796,
       "Height" : 800
