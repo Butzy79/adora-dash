@@ -7,8 +7,8 @@
       "Width" : 796,
       "Height" : 471
     },
-    "Zolder": {
-      "Rotation" : 60,
+    "nurburgring": {
+      "Rotation" : 0,
       "Top" : 7,
       "Left" : 2,
       "Width" : 796,
@@ -19,6 +19,13 @@
     "Silverstone": {
       "Rotation" : 90,
       "Top" : -150,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 800
+    },
+    "nurburgring": {
+      "Rotation" : 45,
+      "Top" : -120,
       "Left" : 2,
       "Width" : 796,
       "Height" : 800
