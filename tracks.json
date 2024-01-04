@@ -6,9 +6,22 @@
       "Left" : 2,
       "Width" : 796,
       "Height" : 471
+    },
+    "Zolder": {
+      "Rotation" : 60,
+      "Top" : 7,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 471
     }
   },
   "AssettoCorsaCompetizione": {
-
+    "Silverstone": {
+      "Rotation" : 90,
+      "Top" : 7,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 1000
+    }
   }
 }
