@@ -24,11 +24,11 @@
       "Height" : 800
     },
     "nurburgring": {
-      "Rotation" : 45,
-      "Top" : -80,
+      "Rotation" : 43,
+      "Top" : -55,
       "Left" : 2,
       "Width" : 796,
-      "Height" : 700
+      "Height" : 680
     }
   }
 }
