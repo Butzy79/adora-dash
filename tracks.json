@@ -18,17 +18,17 @@
   "AssettoCorsaCompetizione": {
     "Silverstone": {
       "Rotation" : 90,
-      "Top" : -150,
+      "Top" : -160,
       "Left" : 2,
       "Width" : 796,
       "Height" : 800
     },
     "nurburgring": {
       "Rotation" : 45,
-      "Top" : -120,
+      "Top" : -80,
       "Left" : 2,
       "Width" : 796,
-      "Height" : 800
+      "Height" : 700
     }
   }
 }
