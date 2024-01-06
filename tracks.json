@@ -15,11 +15,12 @@
       "Height" : 471
     },
     "monza": {
-      "Rotation" : 0,
-      "Top" : 7,
-      "Left" : 2,
-      "Width" : 796,
-      "Height" : 471
+      "Rotation": 0,
+      "Top": 7,
+      "Left": 2,
+      "Width": 796,
+      "Height": 471
+    }
   },
   "assettocorsacompetizione": {
     "silverstone": {
