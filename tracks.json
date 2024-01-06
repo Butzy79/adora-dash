@@ -13,7 +13,13 @@
       "Left" : 2,
       "Width" : 796,
       "Height" : 471
-    }
+    },
+    "monza": {
+      "Rotation" : 0,
+      "Top" : 7,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 471
   },
   "AssettoCorsaCompetizione": {
     "Silverstone": {
@@ -26,6 +32,13 @@
     "nurburgring": {
       "Rotation" : 43,
       "Top" : -55,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 680
+    },
+    "monza": {
+      "Rotation" : -90,
+      "Top" : -160,
       "Left" : 2,
       "Width" : 796,
       "Height" : 680
