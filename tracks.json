@@ -49,6 +49,20 @@
       "Width": 796,
       "Height": 471
     },
+    "kyalami": {
+      "Rotation" : 0,
+      "Top" : 7,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 471
+    },
+    "laguna_seca": {
+      "Rotation": 0,
+      "Top": 7,
+      "Left": 2,
+      "Width": 796,
+      "Height": 471
+    },
     "misano": {
       "Rotation": 0,
       "Top": 7,
@@ -57,6 +71,13 @@
       "Height": 471
     },
     "monza": {
+      "Rotation": 0,
+      "Top": 7,
+      "Left": 2,
+      "Width": 796,
+      "Height": 471
+    },
+    "mount_panorama": {
       "Rotation": 0,
       "Top": 7,
       "Left": 2,
@@ -104,6 +125,13 @@
       "Left": 2,
       "Width": 796,
       "Height": 471
+    },
+    "suzuka": {
+      "Rotation" : 0,
+      "Top" : 7,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 471
     },
     "valencia": {
       "Rotation": 0,
@@ -163,12 +191,26 @@
       "Width": 796,
       "Height": 800
     },
+    "laguna_seca": {
+      "Rotation": -100,
+      "Top": -45,
+      "Left": 2,
+      "Width": 796,
+      "Height": 600
+    },
     "monza": {
       "Rotation" : -95,
       "Top" : -145,
       "Left" : -90,
       "Width" : 1000,
       "Height" : 750
+    },
+    "mount_panorama": {
+      "Rotation": -100,
+      "Top": -155,
+      "Left": 20,
+      "Width": 800,
+      "Height": 800
     },
     "nurburgring": {
       "Rotation" : 43,
