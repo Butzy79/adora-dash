@@ -69,6 +69,20 @@
       "Left": 2,
       "Width": 796,
       "Height": 471
+    },
+    "zandvoort": {
+      "Rotation": 0,
+      "Top": 7,
+      "Left": 2,
+      "Width": 796,
+      "Height": 471
+    },
+    "zolder": {
+      "Rotation": 0,
+      "Top": 7,
+      "Left": 2,
+      "Width": 796,
+      "Height": 471
     }
   },
   "assettocorsacompetizione": {
@@ -127,6 +141,20 @@
       "Left" : 25,
       "Width" : 796,
       "Height" : 700
+    },
+    "zandvoort": {
+      "Rotation" : 0,
+      "Top" : -10,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 500
+    },
+    "zolder": {
+      "Rotation" :35,
+      "Top" : -100,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 720
     }
   }
 }
