@@ -42,6 +42,13 @@
       "Width" : 796,
       "Height" : 471
     },
+    "indianapolis": {
+      "Rotation": 0,
+      "Top": 7,
+      "Left": 2,
+      "Width": 796,
+      "Height": 471
+    },
     "misano": {
       "Rotation": 0,
       "Top": 7,
@@ -118,6 +125,13 @@
       "Left": 2,
       "Width": 796,
       "Height": 471
+    },
+    "watkins_glen": {
+      "Rotation": 0,
+      "Top": 7,
+      "Left": 2,
+      "Width": 796,
+      "Height": 471
     }
   },
   "assettocorsacompetizione": {
@@ -141,6 +155,13 @@
       "Left" : 2,
       "Width" : 796,
       "Height" : 620
+    },
+    "indianapolis": {
+      "Rotation": -90,
+      "Top": -160,
+      "Left": 2,
+      "Width": 796,
+      "Height": 800
     },
     "monza": {
       "Rotation" : -95,
@@ -197,6 +218,13 @@
       "Left" : 2,
       "Width" : 796,
       "Height" : 720
+    },
+    "watkins_glen": {
+      "Rotation": -90,
+      "Top": -160,
+      "Left": 2,
+      "Width": 796,
+      "Height": 800
     }
   }
 }
