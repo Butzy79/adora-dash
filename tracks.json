@@ -1,6 +1,6 @@
 {
   "_": {
-    "Silverstone": {
+    "silverstone": {
       "Rotation" : 90,
       "Top" : 7,
       "Left" : 2,
@@ -21,8 +21,8 @@
       "Width" : 796,
       "Height" : 471
   },
-  "AssettoCorsaCompetizione": {
-    "Silverstone": {
+  "assettocorsacompetizione": {
+    "silverstone": {
       "Rotation" : 90,
       "Top" : -160,
       "Left" : 2,
