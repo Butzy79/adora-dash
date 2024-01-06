@@ -39,9 +39,9 @@
     },
     "monza": {
       "Rotation" : -90,
-      "Top" : -160,
+      "Top" : -130,
       "Left" : 2,
-      "Width" : 796,
+      "Width" : 1000,
       "Height" : 680
     }
   }
