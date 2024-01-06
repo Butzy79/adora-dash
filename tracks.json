@@ -1,11 +1,39 @@
 {
   "_": {
-    "silverstone": {
+    "barcelona": {
       "Rotation" : 0,
       "Top" : 7,
       "Left" : 2,
       "Width" : 796,
       "Height" : 471
+    },
+    "brands_hatch": {
+      "Rotation" : 0,
+      "Top" : 7,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 471
+    },
+    "hungaroring": {
+      "Rotation" : 0,
+      "Top" : 7,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 471
+    },
+    "misano": {
+      "Rotation": 0,
+      "Top": 7,
+      "Left": 2,
+      "Width": 796,
+      "Height": 471
+    },
+    "monza": {
+      "Rotation": 0,
+      "Top": 7,
+      "Left": 2,
+      "Width": 796,
+      "Height": 471
     },
     "nurburgring": {
       "Rotation" : 0,
@@ -14,7 +42,28 @@
       "Width" : 796,
       "Height" : 471
     },
-    "monza": {
+    "paul_ricard": {
+      "Rotation": 0,
+      "Top": 7,
+      "Left": 2,
+      "Width": 796,
+      "Height": 471
+    },
+    "silverstone": {
+      "Rotation" : 0,
+      "Top" : 7,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 471
+    },
+    "spa": {
+      "Rotation": 0,
+      "Top": 7,
+      "Left": 2,
+      "Width": 796,
+      "Height": 471
+    },
+    "valencia": {
       "Rotation": 0,
       "Top": 7,
       "Left": 2,
@@ -23,12 +72,33 @@
     }
   },
   "assettocorsacompetizione": {
-    "silverstone": {
-      "Rotation" : 90,
-      "Top" : -160,
+    "barcelona": {
+      "Rotation" : -58,
+      "Top" : -145,
+      "Left" : 20,
+      "Width" : 796,
+      "Height" : 710
+    },
+    "brands_hatch": {
+      "Rotation" : -20,
+      "Top" : -10,
       "Left" : 2,
       "Width" : 796,
-      "Height" : 800
+      "Height" : 550
+    },
+    "hungaroring": {
+      "Rotation" : -54,
+      "Top" : -100,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 620
+    },
+    "monza": {
+      "Rotation" : -95,
+      "Top" : -145,
+      "Left" : -90,
+      "Width" : 1000,
+      "Height" : 750
     },
     "nurburgring": {
       "Rotation" : 43,
@@ -37,12 +107,26 @@
       "Width" : 796,
       "Height" : 680
     },
-    "monza": {
-      "Rotation" : -95,
-      "Top" : -145,
-      "Left" : -90,
-      "Width" : 1000,
-      "Height" : 750
+    "silverstone": {
+      "Rotation" : 90,
+      "Top" : -160,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 800
+    },
+    "spa": {
+      "Rotation" : -70,
+      "Top" : -170,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 700
+    },
+    "valencia": {
+      "Rotation" : 35,
+      "Top" : -110,
+      "Left" : 25,
+      "Width" : 796,
+      "Height" : 700
     }
   }
 }
