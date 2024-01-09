@@ -1,0 +1,272 @@
+{
+  "_": {
+    "barcelona": {
+      "Rotation" : 0,
+      "Top" : 7,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 471
+    },
+    "brands_hatch": {
+      "Rotation" : 0,
+      "Top" : 7,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 471
+    },
+    "cota": {
+      "Rotation" : 0,
+      "Top" : 7,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 471
+    },
+    "donington": {
+      "Rotation" : 0,
+      "Top" : 7,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 471
+    },
+    "hungaroring": {
+      "Rotation" : 0,
+      "Top" : 7,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 471
+    },
+    "imola": {
+      "Rotation" : 0,
+      "Top" : 7,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 471
+    },
+    "indianapolis": {
+      "Rotation": 0,
+      "Top": 7,
+      "Left": 2,
+      "Width": 796,
+      "Height": 471
+    },
+    "kyalami": {
+      "Rotation" : 0,
+      "Top" : 7,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 471
+    },
+    "laguna_seca": {
+      "Rotation": 0,
+      "Top": 7,
+      "Left": 2,
+      "Width": 796,
+      "Height": 471
+    },
+    "misano": {
+      "Rotation": 0,
+      "Top": 7,
+      "Left": 2,
+      "Width": 796,
+      "Height": 471
+    },
+    "monza": {
+      "Rotation": 0,
+      "Top": 7,
+      "Left": 2,
+      "Width": 796,
+      "Height": 471
+    },
+    "mount_panorama": {
+      "Rotation": 0,
+      "Top": 7,
+      "Left": 2,
+      "Width": 796,
+      "Height": 471
+    },
+    "nurburgring": {
+      "Rotation" : 0,
+      "Top" : 7,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 471
+    },
+    "oulton_park": {
+      "Rotation" : 0,
+      "Top" : 7,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 471
+    },
+    "paul_ricard": {
+      "Rotation": 0,
+      "Top": 7,
+      "Left": 2,
+      "Width": 796,
+      "Height": 471
+    },
+    "silverstone": {
+      "Rotation" : 0,
+      "Top" : 7,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 471
+    },
+    "snetterton": {
+      "Rotation" : 0,
+      "Top" : 7,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 471
+    },
+    "spa": {
+      "Rotation": 0,
+      "Top": 7,
+      "Left": 2,
+      "Width": 796,
+      "Height": 471
+    },
+    "suzuka": {
+      "Rotation" : 0,
+      "Top" : 7,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 471
+    },
+    "valencia": {
+      "Rotation": 0,
+      "Top": 7,
+      "Left": 2,
+      "Width": 796,
+      "Height": 471
+    },
+    "zandvoort": {
+      "Rotation": 0,
+      "Top": 7,
+      "Left": 2,
+      "Width": 796,
+      "Height": 471
+    },
+    "zolder": {
+      "Rotation": 0,
+      "Top": 7,
+      "Left": 2,
+      "Width": 796,
+      "Height": 471
+    },
+    "watkins_glen": {
+      "Rotation": 0,
+      "Top": 7,
+      "Left": 2,
+      "Width": 796,
+      "Height": 471
+    }
+  },
+  "assettocorsacompetizione": {
+    "barcelona": {
+      "Rotation" : -58,
+      "Top" : -145,
+      "Left" : 20,
+      "Width" : 796,
+      "Height" : 710
+    },
+    "brands_hatch": {
+      "Rotation" : -20,
+      "Top" : -10,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 550
+    },
+    "hungaroring": {
+      "Rotation" : -54,
+      "Top" : -100,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 620
+    },
+    "indianapolis": {
+      "Rotation": -90,
+      "Top": -160,
+      "Left": 2,
+      "Width": 796,
+      "Height": 800
+    },
+    "laguna_seca": {
+      "Rotation": -100,
+      "Top": -45,
+      "Left": 2,
+      "Width": 796,
+      "Height": 600
+    },
+    "monza": {
+      "Rotation" : -95,
+      "Top" : -145,
+      "Left" : -90,
+      "Width" : 1000,
+      "Height" : 750
+    },
+    "mount_panorama": {
+      "Rotation": -100,
+      "Top": -155,
+      "Left": 20,
+      "Width": 800,
+      "Height": 800
+    },
+    "nurburgring": {
+      "Rotation" : 43,
+      "Top" : -55,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 680
+    },
+    "oulton_park": {
+      "Rotation" : -90,
+      "Top" : -150,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 800
+    },
+    "silverstone": {
+      "Rotation" : 90,
+      "Top" : -160,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 800
+    },
+    "spa": {
+      "Rotation" : -70,
+      "Top" : -170,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 700
+    },
+    "valencia": {
+      "Rotation" : 35,
+      "Top" : -110,
+      "Left" : 25,
+      "Width" : 796,
+      "Height" : 700
+    },
+    "zandvoort": {
+      "Rotation" : 0,
+      "Top" : -10,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 500
+    },
+    "zolder": {
+      "Rotation" :35,
+      "Top" : -100,
+      "Left" : 2,
+      "Width" : 796,
+      "Height" : 720
+    },
+    "watkins_glen": {
+      "Rotation": -90,
+      "Top": -160,
+      "Left": 2,
+      "Width": 796,
+      "Height": 800
+    }
+  }
+}
