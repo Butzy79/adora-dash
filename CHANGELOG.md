@@ -1,5 +1,5 @@
 # CHANGELOG
-### 0.3.0 (2023-01-03)
+### 0.3.0 (2023-01-09)
 - New: Driver Number Color (in idle screen)
 - New: On new lap overlay delta
 - New: Nearby cars
