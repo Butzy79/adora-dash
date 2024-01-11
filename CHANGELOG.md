@@ -1,4 +1,7 @@
 # CHANGELOG
+### 0.4.0 (2023-01-20)
+- Fix: Abstraction of game data
+
 ### 0.3.0 (2023-01-09)
 - New: Driver Number Color (in idle screen)
 - New: On new lap overlay delta
