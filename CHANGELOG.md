@@ -1,8 +1,8 @@
 # CHANGELOG
 ### 0.4.0 (2023-01-20)
+- New: Qualification best time: your/pole/category
 - Fix: Abstraction of game data
 - Fix: Tyre temp value
-
 
 ### 0.3.0 (2023-01-09)
 - New: Driver Number Color (in idle screen)
