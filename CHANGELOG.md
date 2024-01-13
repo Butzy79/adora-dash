@@ -3,7 +3,7 @@
 - New: Qualification best time: your/pole/category
 - New: Overlay on change electronics
 - Fix: Abstraction of game data
-- Fix: Tyre temp value
+- Fix: Tyre target temp correction
 
 ### 0.3.0 (2023-01-09)
 - New: Driver Number Color (in idle screen)
