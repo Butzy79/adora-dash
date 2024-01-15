@@ -1,5 +1,7 @@
 # CHANGELOG
 ### 0.4.0 (2023-01-20)
+- New: Last Lap info screen and overlay changed for practice
+- New: Select which screen in which session
 - New: Qualification best time: your/pole/category
 - New: Overlay on change electronics
 - Fix: Abstraction of game data
