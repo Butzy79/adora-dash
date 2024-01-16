@@ -4,6 +4,7 @@
 - New: Select which screen in which session
 - New: Qualification best time: your/pole/category
 - New: Overlay on change electronics
+- New: Added Promo Codes
 - Fix: Abstraction of game data
 - Fix: Tyre target temp correction
 
