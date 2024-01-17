@@ -1,5 +1,7 @@
 # CHANGELOG
 ### 0.4.0 (2023-01-20)
+- Sim: AC Support
+- Sim: AMS2 Support
 - New: Last Lap info screen and overlay changed for practice
 - New: Select which screen in which session
 - New: Qualification best time: your/pole/category
