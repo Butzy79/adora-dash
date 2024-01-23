@@ -7,6 +7,8 @@
 - New: Qualification best time: your/pole/category
 - New: Overlay on change electronics
 - New: Added Promo Codes
+- New: Special thanks added
+- New: LFM Support
 - Fix: Abstraction of game data
 - Fix: Tyre target temp correction
 
