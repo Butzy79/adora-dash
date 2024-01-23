@@ -1,4 +1,9 @@
 # CHANGELOG
+### 0.5.0 (2023-01-20)
+- New: Special thanks added
+- New: LFM Support
+- Fix: Standing based on Driver Cateogry
+
 ### 0.4.0 (2023-01-20)
 - New: Sim AC Support
 - New: Sim AMS2 Support
@@ -7,8 +12,6 @@
 - New: Qualification best time: your/pole/category
 - New: Overlay on change electronics
 - New: Added Promo Codes
-- New: Special thanks added
-- New: LFM Support
 - Fix: Abstraction of game data
 - Fix: Tyre target temp correction
 
