@@ -3,7 +3,7 @@ AdoraDash is a meticulously crafted SimHub Dashboard tailored for passionate Sim
 
 ![AdoraDash](./src/images/adora_1_screen.png)
 
-**Presently, AdoraDash exclusively supports AssettoCorsa Competizione. As the early-access phase concludes, additional simulators will be incorporated.**
+**Presently, AdoraDash fully supports Assetto Corsa Competizione and other sims like Asseto Corsa, Automobilista 2, iRacing, rFactor 2. As the early-access phase concludes, additional simulators will be incorporated.**
 
 ## Documentation and Installation
 You can find the official documentation here: [Documentation table of contents](/doc/TOC.md)
