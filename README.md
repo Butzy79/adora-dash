@@ -3,7 +3,7 @@ AdoraDash is a meticulously crafted SimHub Dashboard tailored for passionate Sim
 
 ![AdoraDash](./src/images/adora_1_screen.png)
 
-**Presently, AdoraDash exclusively supports AssettoCorsa Competizione. As the early-access phase concludes, additional simulators will be incorporated.**
+**Presently, AdoraDash fully supports Assetto Corsa Competizione and other sims like Asseto Corsa, Automobilista 2, iRacing, rFactor 2. As the early-access phase concludes, additional simulators will be incorporated.**
 
 ## Documentation and Installation
 You can find the official documentation here: [Documentation table of contents](/doc/TOC.md)
@@ -12,6 +12,11 @@ You can find the official documentation here: [Documentation table of contents](
 Join the vibrant AdoraDash community on Discord!
 
 👉 [AdoraDash Discord Server](https://discord.gg/2yNzuRc62S) 👈
+
+## Sponsored by
+AdoraDash is Sponsored by the 👉 [Omega Motorsport Italia](https://linktr.ee/OMEGA_MOTORSPORT_ITALIA) 👈 team.
+
+![Omega](/src/images/docs/sponsor/omega.png)
 
 ## Disclaimer
 All trademarks, logos, and brand names remain the property of their respective owners. The use of company, product, and service names in this application is purely for identification purposes. The inclusion of these names, trademarks, and brands does not imply endorsement unless explicitly stated.
