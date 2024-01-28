@@ -1,5 +1,6 @@
 # CHANGELOG
-### 0.5.0 (xxx)
+### 0.6.0 (xxx)
+- New: New big standing screen
 - Fix: Setting visual issue
 
 ### 0.5.0 (2023-01-20)
