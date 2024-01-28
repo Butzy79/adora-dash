@@ -1,4 +1,7 @@
 # CHANGELOG
+### 0.5.0 (xxx)
+- Fix: Setting visual issue
+
 ### 0.5.0 (2023-01-20)
 - New: Special thanks added
 - New: LFM Support
