@@ -2,6 +2,7 @@
 ### 0.6.0 (xxx)
 - New: New big standing screen
 - Fix: Setting visual issue
+- Fix: Setting Class order
 
 ### 0.5.0 (2023-01-20)
 - New: Special thanks added
