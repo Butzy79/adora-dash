@@ -14,5 +14,7 @@ In the URL, you will find the ID, which is the number at the end of the URL.
 
 ![LFM ID](/src/images/docs/plugin/lfm_id.jpg)
 
+
 If this is set up correctly, once you launch the dashboard, the next race will pop up on the screen.
-![LFM ID](/src/images/docs/plugin/lfm_next_race.jpg)
+
+![DASHBOARD LFM](/src/images/docs/dashboard/lfm_next_race.jpg)
