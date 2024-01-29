@@ -1,6 +1,7 @@
 # PLUGIN CONFIGURATION
-- [Plugin Tab](#racing-platforms-tab)
-- [Racing Platform Tab](#adora-vxxx-tab)
+- [Plugin Tab](#adora-vxxx-tab)
+- [Racing Platforms Tab](#racing-platforms-tab)
+
 ## Adora vX.X.X Tab
 ![Main Tab](/src/images/docs/plugin.jpg)
 
