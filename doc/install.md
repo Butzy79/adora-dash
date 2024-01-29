@@ -19,11 +19,28 @@ Adora is designed as a SimHub Dashboard. Make sure you have the latest SimHub ve
     - Click on the Adora Plugin icon in SimHub.
    
     ![AdoraDash](/src/images/docs/install/plugin.jpg)
-    - Insert your license data.
-    - To activate the license, you need to manually restart SimHub.
 
-5. The next step is to configure [Adora Plugin](plugin.md) to experience AdoraDash.
-6. After that you can take the step to configure your SimHub [Action Buttons and Triggers](triggers.md) to seamlessly control AdoraDash.
+    You have 2 opportunities to activate your license:
+   - #### Already obtained a license key
+        Insert your license data (name, email and license key) and after to activate the license, you need to manually restart SimHub.
+     
+        ***PLEASE restart SimHub. If you have inserted valid data, this screen will not appear anymore. If after a restart the same screen is still visible, it means you did not write the correct email, name, or license key.***
+        ![AdoraDash](/src/images/docs/install/activatre_key.jpg)
+    
+    - #### Having a promo code
+        Insert your promo code in the Promo Code input box combined with your name and your email. After doing that, please click on the ACTIVATE PROMO button to create your license.
+        In case of error a message will appear under the input box describing the issue.
+        In case of ***success*** your license will be automatically applied and it will appear a box with your license data.
+        PLEASE save this data in case you need to re-insert your license in future.
+        
+        Restart your SimHub to activate the license.
+   
+        ***PLEASE restart SimHub. If you have inserted valid data, this screen will not appear anymore. If after a restart the same screen is still visible, it means you did not write the correct email, name, or license key.***
+        ![AdoraDash](/src/images/docs/install/activatre_promo.jpg)
+      
+### Next Steps
+1. The next step is to configure [Adora Plugin](plugin.md) to experience AdoraDash.
+2. After that you can take the step to configure your SimHub [Action Buttons and Triggers](triggers.md) to seamlessly control AdoraDash.
 
 ## Discord Community
 Join the vibrant AdoraDash community on Discord!
