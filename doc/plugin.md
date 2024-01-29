@@ -1,6 +1,6 @@
 # PLUGIN CONFIGURATION
 ## Adora vX.X.X Tab
-![Activate](/src/images/docs/plugin.jpg)
+![Main Tab](/src/images/docs/plugin.jpg)
 
 ## Racing Platforms Tab
-![Activate](/src/images/docs/racing_platform.jpg)
+![Racing Platforms](/src/images/docs/racing_platform.jpg)
