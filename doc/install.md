@@ -25,7 +25,7 @@ Adora is designed as a SimHub Dashboard. Make sure you have the latest SimHub ve
         Insert your license data (name, email and license key) and after to activate the license, you need to manually restart SimHub.
      
         ***PLEASE restart SimHub. If you have inserted valid data, this screen will not appear anymore. If after a restart the same screen is still visible, it means you did not write the correct email, name, or license key.***
-        ![AdoraDash](/src/images/docs/install/activatre_key.jpg)
+        ![Activate](/src/images/docs/install/activate_key.jpg)
     
     - #### Having a promo code
         Insert your promo code in the Promo Code input box combined with your name and your email. After doing that, please click on the ACTIVATE PROMO button to create your license.
@@ -36,7 +36,7 @@ Adora is designed as a SimHub Dashboard. Make sure you have the latest SimHub ve
         Restart your SimHub to activate the license.
    
         ***PLEASE restart SimHub. If you have inserted valid data, this screen will not appear anymore. If after a restart the same screen is still visible, it means you did not write the correct email, name, or license key.***
-        ![AdoraDash](/src/images/docs/install/activatre_promo.jpg)
+        ![AdoraDash](/src/images/docs/install/activate_promo.jpg)
       
 ### Next Steps
 1. The next step is to configure [Adora Plugin](plugin.md) to experience AdoraDash.
