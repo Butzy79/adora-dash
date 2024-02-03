@@ -1,8 +1,11 @@
 # CHANGELOG
 ### 0.6.0 (xxx)
 - New: New big standing screen
+- New: New Strategy Screen
 - Fix: Setting visual issue
 - Fix: Setting Class order
+- Fix: RPM Issue
+- Fix: Fuel per Lap
 
 ### 0.5.0 (2023-01-20)
 - New: Special thanks added
