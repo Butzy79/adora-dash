@@ -7,7 +7,6 @@
 - [AdoraDash Discord Server](https://discord.gg/2yNzuRc62S): Join our Discord server.
 
 ## AdoraDash Documentation
-- [Walkthrough](walkthrough.md) — Walkthrough of the functionalities.
 - [Triggers](triggers.md) — Guide to the triggers.
 
 ## Marketing Contact
