@@ -54,6 +54,17 @@ There is an action named Standing.StandingCup.
 This option gives you the opportunity to see your overall position or that of your category.
 Assign it to your controller to interact during your session with this section.
 
+## Change Standing Relative
+<sup>[___free___]</sup>
+You can set up your controller to interact with standings relatives in MFD display.
+There is an action named Standing.GapToLeader.
+This option gives you the opportunity to change the difference between the leader or yourself.
+Assign it to your controller to interact during your session with this section.
+
+![Leader](/src/images/docs/triggers/leader.jpg) 
+
+![You](/src/images/docs/triggers/you.jpg)
+
 ## Set Your Target Temperature (Only licensed)
 <sup>[___licensed___]</sup>
 You can set up your controller to interact with the target temperature of your tires. There are two actions: Tyre.Decrement_TargetTemp and Tyre.Increment_TargetTemp. Assign both to your controller to interact during your session with those values.
