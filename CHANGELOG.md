@@ -1,4 +1,7 @@
 # CHANGELOG
+### 0.7.0 (2023-02-15)
+- Fix: Left Time colors
+
 ### 0.6.5 (2023-02-09)
 - New: New big standing screen
 - New: New Strategy Screen
