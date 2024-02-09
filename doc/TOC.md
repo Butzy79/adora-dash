@@ -1,7 +1,7 @@
 # [AdoraDash Ecosystem](https://www.patreon.com/adoradash)
 
 ## Getting Started
-- [How to Install](install.md) — Overview of the project contents.
+- [How to Install](install.md) — Overview of the project contents and first steps.
 - [Releases](/releases) - Component releases.
 - [Patreon Adora](https://www.patreon.com/adoradash): Subscribe to our membership to become an AdoraDriver.
 - [AdoraDash Discord Server](https://discord.gg/2yNzuRc62S): Join our Discord server.

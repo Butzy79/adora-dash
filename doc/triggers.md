@@ -7,29 +7,36 @@ To do that, in SimHub, go to the left menu, select Controls and Events.
 Under the Controls section, click on New mapping, and on the left, select your input controller (you can push a button on your controller to directly select it).
 n the left list, select the action to set with this control. Choose the input mode as "Short and Long press" or your preferred option.
 
-
-## Set Actions Button (A and D)
-In SimHub, navigate to DashStudio -> Controls, and assign triggers to the A and D buttons.
+## Set Actions Button (A and D) and Next Screen
+In SimHub, navigate to DashStudio -> Controls and assign triggers to the A and D buttons, and also for the next screen.
 If you are using a DDU, please set up those controls in your DDU interface: Devices -> Control (on your selected device).
 
 - **Action A:** Controls the MFD display, allowing you to scroll between different screens such as Tyres, Map, Damages, and others that will be developed in the coming days.
 
 - **Action D:** Scrolls through Fuel values.
 
-![Actions](/src/images/docs/triggers/action_ad.jpg)
+![Maim](/src/images/docs/triggers/action_ad.jpg)
+![Track](/src/images/docs/triggers/track_pn.jpg)
+![Standing](/src/images/docs/triggers/standing_pn.jpg)
 
- 
+All the controls are also touch screen-enabled if your display supports it.
+
 ## Qualifyng delta 
 <sup>[___free___]</sup>
 You can set up your controller to interact with the delta time in your central top console.
 There is an action named Delta.PolePositionDelta.
 Assign it to your controller to interact during your session with this section.
 
-This feature allows you to display the delta time between your best time or the current pole position.
+This feature allows you to display the delta time between:
+-Your best lap time
+-The current pole position
+-The best time in your category
+
+The time for each of these selections will be shown in this box.
 
 ***This option is valid only in qualifying sessions.***
 
-![Pole](/src/images/docs/triggers/pole.jpg) ![Your Best](/src/images/docs/triggers/yourbest.jpg)
+![Pole](/src/images/docs/triggers/pole.jpg) ![Your Best](/src/images/docs/triggers/yourbest.jpg) ![Category](/src/images/docs/triggers/category.jpg)
 
 ## Standing scrolling standings 
 <sup>[___free___]</sup>
@@ -46,6 +53,17 @@ You can set up your controller to interact with standings type in MFD display.
 There is an action named Standing.StandingCup.
 This option gives you the opportunity to see your overall position or that of your category.
 Assign it to your controller to interact during your session with this section.
+
+## Change Standing Relative
+<sup>[___free___]</sup>
+You can set up your controller to interact with standings relatives in MFD display.
+There is an action named Standing.GapToLeader.
+This option gives you the opportunity to change the difference between the leader or yourself.
+Assign it to your controller to interact during your session with this section.
+
+![Leader](/src/images/docs/triggers/leader.jpg) 
+
+![You](/src/images/docs/triggers/you.jpg)
 
 ## Set Your Target Temperature (Only licensed)
 <sup>[___licensed___]</sup>

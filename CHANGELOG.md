@@ -1,8 +1,19 @@
 # CHANGELOG
+### 0.6.5 (2023-02-09)
+- New: New big standing screen
+- New: New Strategy Screen
+- Fix: Setting visual issue
+- Fix: Setting Class order
+- Fix: RPM Issue
+- Fix: Fuel per Lap
+
 ### 0.5.0 (2023-01-20)
 - New: Special thanks added
 - New: LFM Support
-- Fix: Standing based on Driver Cateogry
+- New: Tyre Temp in Strategy and Last Lap
+- Fix: Laps/Remaining time
+- Fix: Standing based on Driver Category
+- Fix: Position Car Class
 
 ### 0.4.0 (2023-01-20)
 - New: Sim AC Support
