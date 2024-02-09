@@ -13,6 +13,7 @@
 - New: Tyre Temp in Strategy and Last Lap
 - Fix: Laps/Remaining time
 - Fix: Standing based on Driver Category
+- Fix: Position Car Class
 
 ### 0.4.0 (2023-01-20)
 - New: Sim AC Support
