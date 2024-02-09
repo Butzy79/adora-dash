@@ -10,7 +10,9 @@
 ### 0.5.0 (2023-01-20)
 - New: Special thanks added
 - New: LFM Support
-- Fix: Standing based on Driver Cateogry
+- New: Tyre Temp in Strategy and Last Lap
+- Fix: Laps/Remaining time
+- Fix: Standing based on Driver Category
 
 ### 0.4.0 (2023-01-20)
 - New: Sim AC Support
