@@ -1,5 +1,5 @@
 # CHANGELOG
-### 0.6.0 (xxx)
+### 0.6.5 (2023-02-09)
 - New: New big standing screen
 - New: New Strategy Screen
 - Fix: Setting visual issue
