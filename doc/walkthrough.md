@@ -35,6 +35,11 @@ The values may vary based on the sim.
 #### Functions and Map Box
 ![Functions ana map](/src/images/docs/walkthrough/functions.jpg)
 
+Here, information about the lights, rain lights, wiper speed, and blinker of your car is displayed. Next to it, you will see the engine map value of your car.
+
+If a flag is waved on the track, this display will show the corresponding flag.
+![Flags](/src/images/docs/walkthrough/functions_change.jpg)
+
 #### Pit Box
 ![Functions ana map](/src/images/docs/walkthrough/pit.jpg)
 
