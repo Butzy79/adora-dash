@@ -1,5 +1,5 @@
 # PLUGIN CONFIGURATION
-- [Plugin Tab](#adora-vxxx-tab)
+- [Plugin Tab](#adora-v-tab)
 - [Racing Platforms Tab](#racing-platforms-tab)
 - [Gazme Settings Tab](#game-settings-tab)
 

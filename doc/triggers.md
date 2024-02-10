@@ -65,7 +65,7 @@ Assign it to your controller to interact during your session with this section.
 
 ![You](/src/images/docs/triggers/you.jpg)
 
-## Set Your Target Temperature (Only licensed)
+## Set Your Target Temperature
 <sup>[___licensed___]</sup>
 You can set up your controller to interact with the target temperature of your tires. There are two actions: Tyre.Decrement_TargetTemp and Tyre.Increment_TargetTemp. Assign both to your controller to interact during your session with those values.
 
