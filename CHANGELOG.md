@@ -3,6 +3,7 @@
 - New: MFD Hammer Time
 - New: Track Change Overlay
 - Fix: Left Time colors
+- Fix: Cup Category ACC
 
 ### 0.6.5 (2023-02-09)
 - New: New big standing screen
