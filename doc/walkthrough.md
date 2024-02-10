@@ -1,6 +1,9 @@
 # WALKTHROUGH OF ADORADASH
+- [Main Screen](#general-main-screen)
+- [Track Screen](#track-screen)
+- [Standing Screen](#standing-screen)
 
-## General
+## General Main Screen
 AdoraDash has three main differences based on the type of session you are conducting. Here, we will delve into the specific screens and information common to all sessions, as well as the unique features of each session.
 
 ***PLEASE READ [Action Buttons and Triggers](triggers.md) SECTION to understand how to interact with AdoraDashboard***
@@ -52,6 +55,11 @@ Three values are displayed here:
   ![Fuel Missing](/src/images/docs/walkthrough/pit_missing.jpg)
 - Fuel Surplus: This indicates the surplus fuel available to complete the session. If a dash is displayed ("-"), it means you will not have enough fuel to complete the session.
 
+## Track Screen
+![Track View](/src/images/docs/walkthrough/track_screen.jpg)
+
+## Standing Screen
+![Standing View](/src/images/docs/walkthrough/standing_screen.jpg)
 
 ## Other Steps
 1. Step into [Adora Plugin](plugin.md) to experience AdoraDash.
