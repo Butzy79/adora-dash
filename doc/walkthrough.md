@@ -13,6 +13,7 @@ AdoraDash has three main differences based on the type of session you are conduc
 
 #### Electronics Box
 ![Electronics](/src/images/docs/walkthrough/electronics.jpg)
+
 Information about Brake Bias, ABS, and Traction Control will be provided.
 
 If ABS or TC is engaged, the background will blink. Additionally, if there is a change in electronic values, an overlay will display the change.
@@ -20,7 +21,10 @@ If ABS or TC is engaged, the background will blink. Additionally, if there is a 
 
 #### Last Lap Box
 ![Last Lap](/src/images/docs/walkthrough/lastlap.jpg)
+
 Information about your last lap will be displayed here. 
+
+The color of the lap is as follows: Purple indicates your best lap for this session, green means you are lapping at your pace time, and yellow indicates that you are slower than expected.
 
 If there is a change in track grip, it will be displayed here for a few seconds.
 The values may vary based on the sim.
