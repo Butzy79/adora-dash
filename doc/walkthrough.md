@@ -8,6 +8,8 @@ AdoraDash has three main differences based on the type of session you are conduc
 ### Common screens
 - [Electronics Box](#electronics-box)
 - [Last Lap Box](#last-lap-box)
+- [Functions and Map Box](#functions-and-map-box)
+- [Pit Box](#pit-box)
 
 ![Common View](/src/images/docs/walkthrough/common.jpg)
 
