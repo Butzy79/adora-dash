@@ -8,9 +8,8 @@ AdoraDash has three main differences based on the type of session you are conduc
 ### Common screens
 ![Common View](/src/images/docs/walkthrough/common.jpg)
 
-### Practice
-### Qualify
-### Race
+#### Electronics Box
+
 
 ## Other Steps
 1. Step into [Adora Plugin](plugin.md) to experience AdoraDash.
