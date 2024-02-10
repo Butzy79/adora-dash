@@ -28,7 +28,13 @@ The color of the lap is as follows: Purple indicates your best lap for this sess
 
 If there is a change in track grip, it will be displayed here for a few seconds.
 The values may vary based on the sim.
-![Electronics Change](/src/images/docs/walkthrough/lastlap_change.jpg)
+![Last Lap Change](/src/images/docs/walkthrough/lastlap_change.jpg)
+
+#### Functions and Map Box
+![Functions ana map](/src/images/docs/walkthrough/functions.jpg)
+
+#### Pit Box
+![Functions ana map](/src/images/docs/walkthrough/pit.jpg)
 
 ## Other Steps
 1. Step into [Adora Plugin](plugin.md) to experience AdoraDash.
