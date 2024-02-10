@@ -2,7 +2,7 @@
 - [Plugin Tab](#adora-vxxx-tab)
 - [Racing Platforms Tab](#racing-platforms-tab)
 - [Gazme Settings Tab](#game-settings-tab)
-- 
+
 ## Adora v Tab
 ![Main Tab](/src/images/docs/plugin.jpg)
 
