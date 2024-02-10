@@ -6,7 +6,7 @@ AdoraDash has three main differences based on the type of session you are conduc
 ***PLEASE READ [Action Buttons and Triggers](triggers.md) SECTION to understand how to interact with AdoraDashboard***
 
 ### Common screens
-![Common View](/src/images/docs/walkthrugh/common.jpg)
+![Common View](/src/images/docs/walkthrough/common.jpg)
 
 ### Practice
 ### Qualify
