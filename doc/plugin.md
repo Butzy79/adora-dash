@@ -1,7 +1,8 @@
 # PLUGIN CONFIGURATION
 - [Plugin Tab](#adora-vxxx-tab)
 - [Racing Platforms Tab](#racing-platforms-tab)
-
+- [Gazme Settings Tab](#game-settings-tab)
+- 
 ## Adora v Tab
 ![Main Tab](/src/images/docs/plugin.jpg)
 
@@ -50,7 +51,7 @@ If this is set up correctly, once you launch the dashboard, the next race will p
 
 ![DASHBOARD LFM](/src/images/docs/dashboard/lfm_next_race.jpg)
 
-## Game
+## Game Settings Tab
 ![Game Settings Tab](/src/images/docs/plugin/game_settings.jpg)
 
 Here you can update specific values for each game.
