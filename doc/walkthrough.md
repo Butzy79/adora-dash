@@ -56,9 +56,13 @@ Three values are displayed here:
 - Fuel Surplus: This indicates the surplus fuel available to complete the session. If a dash is displayed ("-"), it means you will not have enough fuel to complete the session.
 
 ## Track Screen
+***PLEASE READ [Action Buttons and Triggers](triggers.md) SECTION to understand how to interact with AdoraDashboard and reach this screen***
+
 ![Track View](/src/images/docs/walkthrough/track_screen.jpg)
 
 ## Standing Screen
+***PLEASE READ [Action Buttons and Triggers](triggers.md) SECTION to understand how to interact with AdoraDashboard and reach this screen***
+
 ![Standing View](/src/images/docs/walkthrough/standing_screen.jpg)
 
 ## Other Steps
