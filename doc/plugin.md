@@ -26,6 +26,7 @@ It will be visible only in practice and the race.
 - MFD Last Lap: It shows tire pressure and temperature, and brake temperature of the previous lap (average values).
 - MFD Standings: It shows session standings.
 - MFD Nearby: It shows who is in front and behind us.
+- MFD Hammer Time: It shows how to catch the car in front, and how to push the one back.
 - MFD Delta: A delta time and a small track view.
 - MFD Track: It shows the track and all the cars.
 - MFD Damage: It shows car damage status.
