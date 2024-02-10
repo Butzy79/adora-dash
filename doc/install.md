@@ -41,6 +41,7 @@ Adora is designed as a SimHub Dashboard. Make sure you have the latest SimHub ve
 ### Next Steps
 1. The next step is to configure [Adora Plugin](plugin.md) to experience AdoraDash.
 2. After that you can take the step to configure your SimHub [Action Buttons and Triggers](triggers.md) to seamlessly control AdoraDash.
+3. A last step to know AdoraDash in all its functionality: [Walkthrough AdoraDash](walkthrough.md) to seamlessly control AdoraDash.
 
 ## Discord Community
 Join the vibrant AdoraDash community on Discord!

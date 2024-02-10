@@ -58,3 +58,12 @@ In detail, you can set the target PSI for a specific game.
 In Generic, you can set a generic value for sims not listed.
 
 Target temperature (dry/wet) is displayed on the dashboard as a target value, and all the tires are aimed at this target, showing the delta in specific MFD displays.
+
+## Other Steps
+1. Step into [Action Buttons and Triggers](triggers.md) to seamlessly control AdoraDash.
+2. A last step to know AdoraDash in all its functionality: [Walkthrough AdoraDash](walkthrough.md) to seamlessly control AdoraDash.
+
+## Discord Community
+Join the vibrant AdoraDash community on Discord!
+
+👉 [AdoraDash Discord Server](https://discord.gg/2yNzuRc62S) 👈
