@@ -41,13 +41,18 @@ If a flag is waved on the track, this display will show the corresponding flag.
 ![Flags](/src/images/docs/walkthrough/functions_change.jpg)
 
 #### Pit Box
-![Functions ana map](/src/images/docs/walkthrough/pit.jpg)
-Three values are displied here:
--Mandatoruy: are the mandatory pit-stop missing you need to do.
-- MFD Value: if the sim is permit to dsiplay this value, here you will see the number of fuel you will load on your next stop.
-    If the fuel you will load on next pit will be enough to complete the session, a big number white , or a dash in case no pit planned, will be displayd.
-- 
-- F.Surplus: the fuel in surplus for finish this session. If a dash is displayer ("-") it means you will not have enough fuel to complete the session.
+![Pit Box](/src/images/docs/walkthrough/pit.jpg)
+Three values are displayed here:
+
+- Mandatory Pit Stops: These are the mandatory pit stops you still need to make.
+- MFD Value: If the simulation permits displaying this value, you will see the amount of fuel you need to load for your next pit stop here.
+
+  If the fuel needed for the next pit stop is sufficient to complete the session, a large white number or a dash (if no pit stop is planned) will be displayed.
+  If the fuel needed is insufficient or no pit stops are planned but there isn't enough fuel to finish the session, a second number will appear indicating the additional fuel needed to complete the session. The large number in this case will be shown in red.
+  ![Fuel Missing](/src/images/docs/walkthrough/pit_missing.jpg)
+- Fuel Surplus: This indicates the surplus fuel available to complete the session. If a dash is displayed ("-"), it means you will not have enough fuel to complete the session.
+
+
 ## Other Steps
 1. Step into [Adora Plugin](plugin.md) to experience AdoraDash.
 2. Step into [Action Buttons and Triggers](triggers.md) to seamlessly control AdoraDash.
