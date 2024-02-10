@@ -65,10 +65,19 @@ Assign it to your controller to interact during your session with this section.
 
 ![You](/src/images/docs/triggers/you.jpg)
 
-## Set Your Target Temperature (Only licensed)
+## Set Your Target Temperature
 <sup>[___licensed___]</sup>
 You can set up your controller to interact with the target temperature of your tires. There are two actions: Tyre.Decrement_TargetTemp and Tyre.Increment_TargetTemp. Assign both to your controller to interact during your session with those values.
 
 ## Strategy Time
 <sup>[___licensed___]</sup>
 You can increment and decrement the strategy time in minutes. There are two actions: Strategy.Decrement_TimeInMinutes and Strategy.Increment_TimeInMinutes. Assign both to your controller to interact during your session with those values.
+
+## Other Steps
+1. Step into [Adora Plugin](plugin.md) to experience AdoraDash.
+2. A last step to know AdoraDash in all its functionality: [Walkthrough AdoraDash](walkthrough.md) to seamlessly control AdoraDash.
+
+## Discord Community
+Join the vibrant AdoraDash community on Discord!
+
+👉 [AdoraDash Discord Server](https://discord.gg/2yNzuRc62S) 👈

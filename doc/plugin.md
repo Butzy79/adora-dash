@@ -1,6 +1,7 @@
 # PLUGIN CONFIGURATION
-- [Plugin Tab](#adora-vxxx-tab)
+- [Plugin Tab](#adora-v-tab)
 - [Racing Platforms Tab](#racing-platforms-tab)
+- [Gazme Settings Tab](#game-settings-tab)
 
 ## Adora v Tab
 ![Main Tab](/src/images/docs/plugin.jpg)
@@ -26,6 +27,7 @@ It will be visible only in practice and the race.
 - MFD Last Lap: It shows tire pressure and temperature, and brake temperature of the previous lap (average values).
 - MFD Standings: It shows session standings.
 - MFD Nearby: It shows who is in front and behind us.
+- MFD Hammer Time: It shows how to catch the car in front, and how to push the one back.
 - MFD Delta: A delta time and a small track view.
 - MFD Track: It shows the track and all the cars.
 - MFD Damage: It shows car damage status.
@@ -49,7 +51,7 @@ If this is set up correctly, once you launch the dashboard, the next race will p
 
 ![DASHBOARD LFM](/src/images/docs/dashboard/lfm_next_race.jpg)
 
-## Game
+## Game Settings Tab
 ![Game Settings Tab](/src/images/docs/plugin/game_settings.jpg)
 
 Here you can update specific values for each game.
@@ -57,3 +59,12 @@ In detail, you can set the target PSI for a specific game.
 In Generic, you can set a generic value for sims not listed.
 
 Target temperature (dry/wet) is displayed on the dashboard as a target value, and all the tires are aimed at this target, showing the delta in specific MFD displays.
+
+## Other Steps
+1. Step into [Action Buttons and Triggers](triggers.md) to seamlessly control AdoraDash.
+2. A last step to know AdoraDash in all its functionality: [Walkthrough AdoraDash](walkthrough.md) to seamlessly control AdoraDash.
+
+## Discord Community
+Join the vibrant AdoraDash community on Discord!
+
+👉 [AdoraDash Discord Server](https://discord.gg/2yNzuRc62S) 👈
