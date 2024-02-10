@@ -1,5 +1,6 @@
 # CHANGELOG
 ### 0.7.0 (2023-02-15)
+- New: MFD Hammer Time
 - Fix: Left Time colors
 
 ### 0.6.5 (2023-02-09)
