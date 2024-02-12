@@ -1,4 +1,7 @@
 # CHANGELOG
+### 0.8.0 (unreleased)
+- New: Tyre Wear (AMS2, RF2, LeMans Ultimate)
+
 ### 0.7.0 (2023-02-15)
 - New: MFD Hammer Time
 - New: Track Change Overlay
