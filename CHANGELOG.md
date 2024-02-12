@@ -1,6 +1,7 @@
 # CHANGELOG
 ### 0.8.0 (2024-02-25)
 - New: Tyre Wear (AMS2, RF2, LeMans Ultimate)
+- New: Map Description on changing value (ACC)
 
 ### 0.7.0 (2024-02-15)
 - New: MFD Hammer Time
