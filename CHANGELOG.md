@@ -3,6 +3,7 @@
 - New: Tyre Wear (AMS2, RF2, LeMans Ultimate)
 - New: Map Description on changing value (ACC)
 - Fix: Light AMS2
+- Fix: Hammer time for Cup Category 
 
 ### 0.7.0 (2024-02-15)
 - New: MFD Hammer Time
