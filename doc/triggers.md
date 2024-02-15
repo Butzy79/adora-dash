@@ -7,7 +7,7 @@ To do that, in SimHub, go to the left menu, select Controls and Events.
 Under the Controls section, click on New mapping, and on the left, select your input controller (you can push a button on your controller to directly select it).
 n the left list, select the action to set with this control. Choose the input mode as "Short and Long press" or your preferred option.
 
-## Set Actions Button (A and D) and Next Screen
+## Set Actions Button (A, B and D) and Next Screen
 In SimHub, navigate to DashStudio -> Controls and assign triggers to the A and D buttons, and also for the next screen.
 If you are using a DDU, please set up those controls in your DDU interface: Devices -> Control (on your selected device).
 
