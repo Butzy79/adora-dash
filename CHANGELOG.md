@@ -4,6 +4,7 @@
 - New: Map Description on changing value (ACC)
 - Fix: Light AMS2
 - Fix: Hammer time for Cup Category 
+- Fix: Green and white flag not blinking anymore
 
 ### 0.7.0 (2024-02-15)
 - New: MFD Hammer Time
