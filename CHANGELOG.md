@@ -2,6 +2,7 @@
 ### 0.8.0 (2024-02-25)
 - New: Tyre Wear (AMS2, RF2, LeMans Ultimate)
 - New: Map Description on changing value (ACC)
+- New: Clock Time and Trigger B
 - Fix: Light AMS2
 - Fix: Hammer time for Cup Category 
 - Fix: Green and white flag not blinking anymore
