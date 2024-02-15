@@ -8,7 +8,7 @@ Under the Controls section, click on New mapping, and on the left, select your i
 n the left list, select the action to set with this control. Choose the input mode as "Short and Long press" or your preferred option.
 
 ## Set Actions Button (A, B and D) and Next Screen
-In SimHub, navigate to DashStudio -> Controls and assign triggers to the A and D buttons, and also for the next screen.
+In SimHub, navigate to DashStudio -> Controls and assign triggers to the A, B and D buttons, and also for the next screen.
 If you are using a DDU, please set up those controls in your DDU interface: Devices -> Control (on your selected device).
 
 - **Action A:** Controls the MFD display, allowing you to scroll between different screens such as Tyres, Map, Damages, and others that will be developed in the coming days.
