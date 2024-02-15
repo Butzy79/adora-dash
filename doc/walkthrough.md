@@ -11,7 +11,7 @@ AdoraDash has three main differences based on the type of session you are conduc
 ### Common screens
 - [Electronics Box](#electronics-box)
 - [Last Lap Box](#last-lap-box)
-- [Functions and Map Box](#functions-and-map-box)
+- [Functions and Map Box - Clock Time](#functions-and-map-box---clock-time)
 - [Pit Box](#pit-box)
 
 ![Common View](/src/images/docs/walkthrough/common.jpg)
@@ -35,11 +35,14 @@ If there is a change in track grip, it will be displayed here for a few seconds.
 The values may vary based on the sim.
 ![Last Lap Change](/src/images/docs/walkthrough/lastlap_change.jpg)
 
-#### Functions and Map Box
+#### Functions and Map Box - Clock Time
 ![Functions ana map](/src/images/docs/walkthrough/functions.jpg)
 
 Here, information about the lights, rain lights, wiper speed, and blinker of your car is displayed. Next to it, you will see the engine map value of your car.
 
+By using the touchscreen or Trigger Action B on your controller, you can switch between viewing functions and real clock time.
+Assetto Corsa and other simulators display only this screen, as the other screen is not compatible with the simulator.
+![Clock Time](/src/images/docs/walkthrough/clock_time.jpg)
 If a flag is waved on the track, this display will show the corresponding flag.
 ![Flags](/src/images/docs/walkthrough/functions_change.jpg)
 

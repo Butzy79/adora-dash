@@ -12,7 +12,7 @@ In SimHub, navigate to DashStudio -> Controls and assign triggers to the A and D
 If you are using a DDU, please set up those controls in your DDU interface: Devices -> Control (on your selected device).
 
 - **Action A:** Controls the MFD display, allowing you to scroll between different screens such as Tyres, Map, Damages, and others that will be developed in the coming days.
-- **Action B:** Scrolls through Functions screen.
+- **Action B:** Scrolls through Functions screen and Real clock time.
 - **Action D:** Scrolls through Fuel values.
 
 ![Maim](/src/images/docs/triggers/action_ad.jpg)
