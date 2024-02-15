@@ -43,6 +43,7 @@ Here, information about the lights, rain lights, wiper speed, and blinker of you
 By using the touchscreen or Trigger Action B on your controller, you can switch between viewing functions and real clock time.
 Assetto Corsa and other simulators display only this screen, as the other screen is not compatible with the simulator.
 ![Clock Time](/src/images/docs/walkthrough/clock_time.jpg)
+
 If a flag is waved on the track, this display will show the corresponding flag.
 ![Flags](/src/images/docs/walkthrough/functions_change.jpg)
 
