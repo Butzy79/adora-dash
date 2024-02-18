@@ -1,6 +1,7 @@
 # CHANGELOG
 ### 0.8.0 (2024-02-25)
 - New: Stint Time value add in Adora Plugin (used for pit section)
+- New: Pit section refactor. A second trigger screen with more pit info.
 - New: Tyre Wear (AMS2, RF2, LeMans Ultimate)
 - New: Map Description on changing value (ACC)
 - New: Clock Time and Trigger B
