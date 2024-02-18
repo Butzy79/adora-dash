@@ -13,6 +13,7 @@ It is only a cosmetic setting to make AdoraDash look nicer and more personalized
 
 ### Settings
 - Pit Strategy Calculation: When you are in the pit lane, with the engine and ignition off, you have an extra MFD showing information about tires and, in the fuel position, details about the fuel strategy relative to a race length set using this slider.
+- Stint Time for Race: This value calculates the fuel to add at the next pit based on stint time and not the full remaining time of the race. In any case, if you set a stint longer than the tank capacity, the tank capacity will be shown as the fuel value to add at the next pit. (0 = full remaining time or maximum tank size of the car.)
 - Map Zoom: Value (smaller = bigger) of the map in the MFD display.
 - New Lap Overlay: Each time you cross the finish line, an overlay layer appears over your MFD showing specific information. Here you can set for how many seconds this overlay will be shown.
 - Electronics Change Overlay: Each time you change ABS, brake bias, TC, map, and so on in the top-left section of the dashboard, this information will flash to show the change.  You can set for how many seconds you want this info flashing (0 = not appear).
