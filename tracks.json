@@ -5,7 +5,8 @@
       "Top" : 7,
       "Left" : 2,
       "Width" : 796,
-      "Height" : 471
+      "Height" : 471,
+      "PitLane": 30
     },
     "brands_hatch": {
       "Rotation" : 0,
@@ -168,42 +169,66 @@
       "Top" : -145,
       "Left" : 20,
       "Width" : 796,
-      "Height" : 710
+      "Height" : 710,
+      "PitLane" : 30
+    },
+    "bathurst": {
+      "PitLane" : 19
     },
     "brands_hatch": {
       "Rotation" : -20,
       "Top" : -10,
       "Left" : 2,
       "Width" : 796,
-      "Height" : 550
+      "Height" : 550,
+      "PitLane" : 19
+    },
+    "cota": {
+      "PitLane" : 29
+    },
+    "donington": {
+      "PitLane" : 19
     },
     "hungaroring": {
       "Rotation" : -54,
       "Top" : -100,
       "Left" : 2,
       "Width" : 796,
-      "Height" : 620
+      "Height" : 620,
+      "PitLane" : 24
+    },
+    "imola": {
+      "PitLane" : 38
     },
     "indianapolis": {
       "Rotation": -90,
       "Top": -160,
       "Left": 2,
       "Width": 796,
-      "Height": 800
+      "Height": 800,
+      "PitLane" : 44
+    },
+    "kyalami": {
+      "PitLane" : 18
     },
     "laguna_seca": {
       "Rotation": -100,
       "Top": -45,
       "Left": 2,
       "Width": 796,
-      "Height": 600
+      "Height": 600,
+      "PitLane" : 21
+    },
+    "misano": {
+      "PitLane" : 28
     },
     "monza": {
       "Rotation" : -95,
       "Top" : -145,
       "Left" : -90,
       "Width" : 1000,
-      "Height" : 750
+      "Height" : 750,
+      "PitLane" : 31
     },
     "mount_panorama": {
       "Rotation": -100,
@@ -217,28 +242,41 @@
       "Top" : -55,
       "Left" : 2,
       "Width" : 796,
-      "Height" : 680
+      "Height" : 680,
+      "PitLane" : 25
     },
     "oulton_park": {
       "Rotation" : -90,
       "Top" : -150,
       "Left" : 2,
       "Width" : 796,
-      "Height" : 800
+      "Height" : 800,
+      "PitLane" : 14
+    },
+    "paul_ricard": {
+      "PitLane" : 27
     },
     "silverstone": {
       "Rotation" : 90,
       "Top" : -160,
       "Left" : 2,
       "Width" : 796,
-      "Height" : 800
+      "Height" : 800,
+      "PitLane" : 23
+    },
+    "snetterton": {
+      "PitLane" : 19
     },
     "spa": {
       "Rotation" : -70,
       "Top" : -170,
       "Left" : 2,
       "Width" : 796,
-      "Height" : 700
+      "Height" : 700,
+      "PitLane" : 57
+    },
+    "suzuka": {
+      "PitLane" : 27
     },
     "valencia": {
       "Rotation" : 35,
@@ -252,21 +290,29 @@
       "Top" : -10,
       "Left" : 2,
       "Width" : 796,
-      "Height" : 500
+      "Height" : 500,
+      "PitLane" : 19
     },
     "zolder": {
       "Rotation" :35,
       "Top" : -100,
       "Left" : 2,
       "Width" : 796,
-      "Height" : 720
+      "Height" : 720,
+      "PitLane" : 30
     },
     "watkins_glen": {
       "Rotation": -90,
       "Top": -160,
       "Left": 2,
       "Width": 796,
-      "Height": 800
+      "Height": 800,
+      "PitLane" : 27
     }
-  }
+  },
+  "automobilista2" : {},
+  "assettocorsa" : {},
+  "iracing" : {},
+  "lemansultimate" : {},
+  "rfactor2" : {}
 }
