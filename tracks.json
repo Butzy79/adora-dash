@@ -5,7 +5,8 @@
       "Top" : 7,
       "Left" : 2,
       "Width" : 796,
-      "Height" : 471
+      "Height" : 471,
+      "PitLane": 30
     },
     "brands_hatch": {
       "Rotation" : 0,
