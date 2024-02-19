@@ -1,15 +1,11 @@
 {
   "_": {
-    "asd": {
-      "PitLane" : 22
-    },
     "barcelona": {
       "Rotation" : 0,
       "Top" : 7,
       "Left" : 2,
       "Width" : 796,
-      "Height" : 471,
-      "PitLane" : 42
+      "Height" : 471
     },
     "brands_hatch": {
       "Rotation" : 0,
@@ -172,8 +168,7 @@
       "Top" : -145,
       "Left" : 20,
       "Width" : 796,
-      "Height" : 710,
-      "PitLane" : 45
+      "Height" : 710
     },
     "brands_hatch": {
       "Rotation" : -20,
