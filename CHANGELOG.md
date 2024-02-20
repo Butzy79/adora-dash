@@ -1,5 +1,5 @@
 # CHANGELOG
-### 0.8.0 (2024-02-25)
+### 0.8.1 (2024-02-25)
 - New: Stint Time value add in Adora Plugin (used for pit section)
 - New: Pit section refactor. A second trigger screen with more pit info. (Prevision and Stint time)
 - New: Pit Settings and trigger stint length
