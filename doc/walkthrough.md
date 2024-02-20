@@ -13,6 +13,7 @@ AdoraDash has three main differences based on the type of session you are conduc
 - [Last Lap Box](#last-lap-box)
 - [Functions and Map Box - Clock Time](#functions-and-map-box---clock-time)
 - [Pit Box](#pit-box)
+- [Fuel Box](#fuel-box)
 
 ![Common View](/src/images/docs/walkthrough/common.jpg)
 
@@ -61,7 +62,7 @@ Three values are displayed here:
 
 ![Pit End Race Box](/src/images/docs/walkthrough/pit_finish.jpg)
 
-This second screen, accessible using Action B (please refer to the [Action Buttons and Triggers](triggers.md) section), shows you:
+This second screen, accessible using Action C (please refer to the [Action Buttons and Triggers](triggers.md) section), shows you:
 
 - The amount of fuel you need to refill to complete the race.
 - The total pit stop time, including entering and exiting the pit lane and the time allocated for changing tires.
@@ -77,6 +78,20 @@ It displays the length of the stint in yellow.
 In this case, the amount of fuel shown is ***NOT*** including of or evaluating the current fuel level in your tank.
 
 This feature is more oriented toward endurance races.
+
+#### Fuel
+![Fuel status](/src/images/docs/walkthrough/fuel.jpg)
+
+This section shows you:
+- How many laps you can complete with your current fuel level. If the fuel is sufficient to finish the session, this value will be displayed in green; if the fuel is enough for only two or fewer laps, it will be displayed in red.- The average consumption of your car based on your driving style.
+- The amount of fuel in your tank.
+
+![Fuel time](/src/images/docs/walkthrough/fuel_finish.jpg)
+
+This second screen, accessible using Action D (please refer to the [Action Buttons and Triggers](triggers.md) section), shows you:
+
+- Remaining time with the fuel you have onboard. If the fuel is enough to finish the session, the white bar will be colored green; however, if the remaining laps are less than two, it will be red.
+- The total fuel you need to finish the race at this moment. ***Please remember that this value does not consider your current fuel level!***
 
 ## Track Screen
 ***PLEASE READ [Action Buttons and Triggers](triggers.md) SECTION to understand how to interact with AdoraDashboard and reach this screen***
