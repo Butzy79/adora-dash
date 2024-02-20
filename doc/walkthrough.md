@@ -113,7 +113,8 @@ Those screens, accessible using Action A (please refer to the [Action Buttons an
 You can activate/deactivate them in the [Plugin](plugin.md#MFD) section.
 Each screen provides unique information about the session in which you are driving.
 
-![MFD Tyres](/src/images/docs/walkthrough/mfd_tyre.jpg)
+![MFD Tyres](/src/images/docs/walkthrough/mfd_tyre.jpg) It shows real-time values for tire temperature and PSI, as well as brake temperature. For sims that support it, tire wear is also displayed. Additionally, it shows the number of tire sets you are using and indicates whether you have wet or dry tires mounted. The target temperature set in the plugin is displayed at the bottom of the screen. Tire pressure changes color according to targets: green indicates ideal, blue indicates lower than ideal, and red indicates higher than ideal. Different gradients are shown for these colors.
+
 
 ![MFD Last Lap](/src/images/docs/walkthrough/mfd_lastlap.jpg)
 
