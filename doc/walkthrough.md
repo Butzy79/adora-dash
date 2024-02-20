@@ -57,7 +57,11 @@ Three values are displayed here:
   If the fuel needed for the next pit stop is sufficient to complete the session, a large white number or a dash (if no pit stop is planned) will be displayed.
   If the fuel needed is insufficient or no pit stops are planned but there isn't enough fuel to finish the session, a second number will appear indicating the additional fuel needed to complete the session. The large number in this case will be shown in red.
   ![Fuel Missing](/src/images/docs/walkthrough/pit_missing.jpg)
-- Fuel Surplus: This indicates the surplus fuel available to complete the session. If a dash is displayed ("-"), it means you will not have enough fuel to complete the session.
+- Fuel Surplus: This indicates the surplus fuel available to complete the session. If a dash is displayed ("-"), it means you will not have enough fuel to complete the session. ***Remember that the Surplus counts the current fuel in the tank along with the fuel you plan to add at your next pit stop.***
+
+![Pit End Race Box](/src/images/docs/walkthrough/pit_finish.jpg)
+
+![Pit Stint Box](/src/images/docs/walkthrough/pit_stint.jpg)
 
 ## Track Screen
 ***PLEASE READ [Action Buttons and Triggers](triggers.md) SECTION to understand how to interact with AdoraDashboard and reach this screen***
