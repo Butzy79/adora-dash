@@ -61,7 +61,22 @@ Three values are displayed here:
 
 ![Pit End Race Box](/src/images/docs/walkthrough/pit_finish.jpg)
 
+This second screen, accessible using Action B (please refer to the [Action Buttons and Triggers](triggers.md) section), shows you:
+
+- The amount of fuel you need to refill to complete the race.
+- The total pit stop time, including entering and exiting the pit lane and the time allocated for changing tires.
+- The predicted position at the end of the pit stop.
+
+Please remember that the refill value includes the amount of fuel currently in your tank.
+
 ![Pit Stint Box](/src/images/docs/walkthrough/pit_stint.jpg)
+
+This third screen is similar to the one above, but the amount of fuel shown is for completing a stint of the time set in the plugin or with the right triggers.
+It displays the length of the stint in yellow.
+
+In this case, the amount of fuel shown is ***NOT*** including of or evaluating the current fuel level in your tank.
+
+This feature is more oriented toward endurance races.
 
 ## Track Screen
 ***PLEASE READ [Action Buttons and Triggers](triggers.md) SECTION to understand how to interact with AdoraDashboard and reach this screen***
