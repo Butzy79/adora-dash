@@ -1,11 +1,25 @@
 # CHANGELOG
-### 0.7.0 (2023-02-15)
+### 0.8.1 (2024-02-20)
+- New: Le Mans Ultimate Support
+- New: Stint Time value add in Adora Plugin (used for pit section)
+- New: Pit section refactor. A second trigger screen with more pit info. (Prevision and Stint time)
+- New: Pit Settings and trigger stint length
+- New: Pit Lane menu added
+- New: Tyre Wear (AMS2, RF2, LeMans Ultimate)
+- New: Map Description on changing value (ACC)
+- New: Clock Time and Trigger B
+- Fix: Light AMS2
+- Fix: Wiper icons changed
+- Fix: Hammer time for Cup Category 
+- Fix: Green and white flag not blinking anymore
+
+### 0.7.0 (2024-02-15)
 - New: MFD Hammer Time
 - New: Track Change Overlay
 - Fix: Left Time colors
 - Fix: Cup Category ACC
 
-### 0.6.5 (2023-02-09)
+### 0.6.5 (2024-02-09)
 - New: New big standing screen
 - New: New Strategy Screen
 - Fix: Setting visual issue
@@ -13,7 +27,7 @@
 - Fix: RPM Issue
 - Fix: Fuel per Lap
 
-### 0.5.0 (2023-01-20)
+### 0.5.0 (2024-01-20)
 - New: Special thanks added
 - New: LFM Support
 - New: Tyre Temp in Strategy and Last Lap
@@ -21,7 +35,7 @@
 - Fix: Standing based on Driver Category
 - Fix: Position Car Class
 
-### 0.4.0 (2023-01-20)
+### 0.4.0 (2024-01-20)
 - New: Sim AC Support
 - New: Sim AMS2 Support
 - New: Last Lap info screen and overlay changed for practice
@@ -32,7 +46,7 @@
 - Fix: Abstraction of game data
 - Fix: Tyre target temp correction
 
-### 0.3.0 (2023-01-09)
+### 0.3.0 (2024-01-09)
 - New: Driver Number Color (in idle screen)
 - New: On new lap overlay delta
 - New: Nearby cars

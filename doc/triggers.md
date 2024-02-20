@@ -7,12 +7,13 @@ To do that, in SimHub, go to the left menu, select Controls and Events.
 Under the Controls section, click on New mapping, and on the left, select your input controller (you can push a button on your controller to directly select it).
 n the left list, select the action to set with this control. Choose the input mode as "Short and Long press" or your preferred option.
 
-## Set Actions Button (A and D) and Next Screen
-In SimHub, navigate to DashStudio -> Controls and assign triggers to the A and D buttons, and also for the next screen.
+## Set Actions Button (A, B and D) and Next Screen
+In SimHub, navigate to DashStudio -> Controls and assign triggers to the A, B and D buttons, and also for the next screen.
 If you are using a DDU, please set up those controls in your DDU interface: Devices -> Control (on your selected device).
 
 - **Action A:** Controls the MFD display, allowing you to scroll between different screens such as Tyres, Map, Damages, and others that will be developed in the coming days.
-
+- **Action B:** Scrolls through Functions screen and Real clock time.
+- **Action C:** Scroll through the pit information to assist you in pit predictions.
 - **Action D:** Scrolls through Fuel values.
 
 ![Maim](/src/images/docs/triggers/action_ad.jpg)
@@ -24,7 +25,7 @@ All the controls are also touch screen-enabled if your display supports it.
 ## Qualifyng delta 
 <sup>[___free___]</sup>
 You can set up your controller to interact with the delta time in your central top console.
-There is an action named Delta.PolePositionDelta.
+There is an action named ***Delta.PolePositionDelta***.
 Assign it to your controller to interact during your session with this section.
 
 This feature allows you to display the delta time between:
@@ -38,10 +39,22 @@ The time for each of these selections will be shown in this box.
 
 ![Pole](/src/images/docs/triggers/pole.jpg) ![Your Best](/src/images/docs/triggers/yourbest.jpg) ![Category](/src/images/docs/triggers/category.jpg)
 
+## Change Standing Relative
+<sup>[___free___]</sup>
+You can set up your controller to interact with standings relatives in MFD display.
+There is an action named ***Standing.GapToLeader***.
+This option gives you the opportunity to change the difference between the leader or yourself.
+Assign it to your controller to interact during your session with this section.
+
+![Leader](/src/images/docs/triggers/leader.jpg) 
+
+![You](/src/images/docs/triggers/you.jpg)
+
 ## Standing scrolling standings 
 <sup>[___free___]</sup>
 You can set up your controller to interact with the standings in the MFD display.
-There are three actions: Standing.ScrollUpStandings, Standing.ScrollDownStandings, and Standing.IsPlayerCenter.
+
+There are three actions: ***Standing.ScrollUpStandings***, ***Standing.ScrollDownStandings***, and ***Standing.IsPlayerCenter***.
 
 These actions give you the opportunity to interact with the standings, scrolling up or down, or centering on the player's position. 
 
@@ -50,28 +63,24 @@ Assign them to your controller to interact with this section during your session
 ## Change Standing Type
 <sup>[___free___]</sup>
 You can set up your controller to interact with standings type in MFD display.
-There is an action named Standing.StandingCup.
+There is an action named ***Standing.StandingCup***.
 This option gives you the opportunity to see your overall position or that of your category.
 Assign it to your controller to interact during your session with this section.
 
-## Change Standing Relative
+## Pit Stint Time
 <sup>[___free___]</sup>
-You can set up your controller to interact with standings relatives in MFD display.
-There is an action named Standing.GapToLeader.
-This option gives you the opportunity to change the difference between the leader or yourself.
-Assign it to your controller to interact during your session with this section.
-
-![Leader](/src/images/docs/triggers/leader.jpg) 
-
-![You](/src/images/docs/triggers/you.jpg)
-
-## Set Your Target Temperature
-<sup>[___licensed___]</sup>
-You can set up your controller to interact with the target temperature of your tires. There are two actions: Tyre.Decrement_TargetTemp and Tyre.Increment_TargetTemp. Assign both to your controller to interact during your session with those values.
+You can increment and decrement the pit stint time for endurance races (same as in the plugin, but in real time during the race). 
+There are two actions: ***Pit.Decrement_StintTime*** and ***Pit.Increment_StintTime***. Assign both to your controller to interact during your session with those values.
 
 ## Strategy Time
 <sup>[___licensed___]</sup>
-You can increment and decrement the strategy time in minutes. There are two actions: Strategy.Decrement_TimeInMinutes and Strategy.Increment_TimeInMinutes. Assign both to your controller to interact during your session with those values.
+You can increment and decrement the strategy time in minutes. 
+There are two actions: ***Strategy.Decrement_TimeInMinutes*** and ***Strategy.Increment_TimeInMinutes***. Assign both to your controller to interact during your session with those values.
+
+## Set Your Target Temperature
+<sup>[___licensed___]</sup>
+You can set up your controller to interact with the target temperature of your tires. 
+There are two actions: ***Tyre.Decrement_TargetTemp*** and ***Tyre.Increment_TargetTemp***. Assign both to your controller to interact during your session with those values.
 
 ## Other Steps
 1. Step into [Adora Plugin](plugin.md) to experience AdoraDash.
