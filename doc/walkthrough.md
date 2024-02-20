@@ -113,12 +113,25 @@ Those screens, accessible using Action A (please refer to the [Action Buttons an
 You can activate/deactivate them in the [Plugin](plugin.md#MFD) section.
 Each screen provides unique information about the session in which you are driving.
 
-![MFD Tyres](/src/images/docs/walkthrough/mfd_tyre.jpg) It shows real-time values for tire temperature and PSI, as well as brake temperature. For sims that support it, tire wear is also displayed. Additionally, it shows the number of tire sets you are using and indicates whether you have wet or dry tires mounted. The target temperature set in the plugin is displayed at the bottom of the screen. Tire pressure changes color according to targets: green indicates ideal, blue indicates lower than ideal, and red indicates higher than ideal. Different gradients are shown for these colors.
+![MFD Tyres](/src/images/docs/walkthrough/mfd_tyre.jpg)
 
+It shows real-time values for tire temperature and PSI, as well as brake temperature.
+For sims that support it, tire wear is also displayed.
+Additionally, it shows the number of tire sets you are using and indicates whether you have wet or dry tires mounted.
+The target temperature set in the plugin is displayed at the bottom of the screen.
+Tire pressure changes color according to targets: green indicates ideal, blue indicates lower than ideal, and red indicates higher than ideal. 
+Different gradients are shown for these colors.
 
+Please remember that you can change target temp during your driivng using the [Triggers](trigger.md#set-your-target-temperature).
+
+---
 ![MFD Last Lap](/src/images/docs/walkthrough/mfd_lastlap.jpg)
 
+Similar to the MFD above, but they will show the average values of the last lap concluded.
+
+---
 ![MFD Standings](/src/images/docs/walkthrough/mfd_standing.jpg)
+
 
 ![MFD Nearby](/src/images/docs/walkthrough/mfd_nearby.jpg)
 
@@ -126,9 +139,17 @@ Each screen provides unique information about the session in which you are drivi
 
 ![MFD Delta](/src/images/docs/walkthrough/mfd_delta.jpg)
 
+--
 ![MFD Track](/src/images/docs/walkthrough/mfd_track.jpg)
 
+It displays the track map with all the drivers on it.
+You can change zoom on Plugin setting.
+
+---
 ![MFD Damages](/src/images/docs/walkthrough/mfd_damage.jpg)
+
+It displays the car status and any damages it has incurred. Additionally, it shows the estimated time to repair the damages if applicable.
+
 ## Track Screen
 ***PLEASE READ [Action Buttons and Triggers](triggers.md) SECTION to understand how to interact with AdoraDashboard and reach this screen***
 
