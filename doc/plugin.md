@@ -77,7 +77,7 @@ This section, combined with the Tracks List tabs, provides you with the timing t
 ## Tracks List Tab
 ![Tracks List Tab](/src/images/docs/plugin/tracks.jpg)
 
-Here you can see all the tracks mapped in AdoraDash. If you want to add more tracks, please join our [AdoraDash Discord Server](https://discord.gg/2yNzuRc62S) server and help us fill in the missing data.
+Here you can see all the tracks mapped in AdoraDash. If you want to add more tracks, please join our [AdoraDash Discord Server](https://discord.gg/2yNzuRc62S) and help us fill in the missing data.
 
 ## Other Steps
 1. Step into [Action Buttons and Triggers](triggers.md) to seamlessly control AdoraDash.
