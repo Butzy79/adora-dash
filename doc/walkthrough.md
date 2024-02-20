@@ -15,6 +15,7 @@ AdoraDash has three main differences based on the type of session you are conduc
 - [Functions and Map Box - Clock Time](#functions-and-map-box---clock-time)
 - [Pit Box](#pit-box)
 - [Fuel Box](#fuel-box)
+- [MFDs Box](#mfds-box)
 
 ![Common View](/src/images/docs/walkthrough/common.jpg)
 
@@ -48,7 +49,7 @@ This is the main box to track your time and position. You can see:
 - Time Left: This section can display the time remaining to complete a session or the number of laps left in a race.
 - Pos: Your current overall position
 - Stint time: This section shows you the time you have been on track since the start of the session. In endurance races, the missing time before a driver swap (if available) will be displayed in green. In qualifying sessions, this box will contain the value of Delta Times. Please refer to the following section to understand them: [Qualifyng Delta](https://github.com/Butzy79/adora-dash/blob/dev/doc/triggers.md#qualifyng-delta) 
-- D.Cut/Cup/CLS: This section in blue hosts your category position. Details about that are in the [Plugin](plugin.md#standing-style) section and [Trigger](trigger.md#change-standing-type) section 
+- D.Cut/Cup/CLS: This section in blue hosts your category position. Details about that are in the [Plugin](plugin.md#standing-style) section and [Triggers](triggers.md#change-standing-type) section 
 #### Functions and Map Box - Clock Time
 ![Functions ana map](/src/images/docs/walkthrough/functions.jpg)
 
@@ -105,6 +106,12 @@ This second screen, accessible using Action D (please refer to the [Action Butto
 
 - Remaining time with the fuel you have onboard. If the fuel is enough to finish the session, the white bar will be colored green; however, if the remaining laps are less than two, it will be red.
 - The total fuel you need to finish the race at this moment. ***Please remember that this value does not consider your current fuel level!***
+
+#### MFDs box
+Those screens, accessible using Action A (please refer to the [Action Buttons and Triggers](triggers.md) section), are the core value of AdoraDash.
+You can activate/deactivate them in the [Plugin](plugin.md#MFD) section.
+Each screen provides unique information about the session in which you are driving.
+
 
 ## Track Screen
 ***PLEASE READ [Action Buttons and Triggers](triggers.md) SECTION to understand how to interact with AdoraDashboard and reach this screen***
