@@ -1,5 +1,5 @@
 # CHANGELOG
-### 0.8.1 (2024-02-25)
+### 0.8.1 (2024-02-20)
 - New: Le Mans Ultimate Support
 - New: Stint Time value add in Adora Plugin (used for pit section)
 - New: Pit section refactor. A second trigger screen with more pit info. (Prevision and Stint time)
