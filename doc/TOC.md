@@ -7,7 +7,9 @@
 - [AdoraDash Discord Server](https://discord.gg/2yNzuRc62S): Join our Discord server.
 
 ## AdoraDash Documentation
+- [Plugin](triggers.md) — How AdoraPlugin works and how to set it up.
 - [Triggers](triggers.md) — Guide to the triggers.
+- [Walkthrough](walkthrough.md) — A walkthrough of AdoraDash.
 
 ## Marketing Contact
 If you have any questions or inquiries related to marketing, please feel free to contact us directly.
