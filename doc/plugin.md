@@ -17,6 +17,14 @@ It is only a cosmetic setting to make AdoraDash look nicer and more personalized
 - Map Zoom: Value (smaller = bigger) of the map in the MFD display.
 - New Lap Overlay: Each time you cross the finish line, an overlay layer appears over your MFD showing specific information. Here you can set for how many seconds this overlay will be shown.
 - Electronics Change Overlay: Each time you change ABS, brake bias, TC, map, and so on in the top-left section of the dashboard, this information will flash to show the change.  You can set for how many seconds you want this info flashing (0 = not appear).
+
+#### Standing Style
+- Car Class
+- Driver Category (ACC)
+- Cup Category (ACC)
+
+In this section, you can select the secondary standing display. Next to the overall standings, there are class standings. For Assetto Corsa Competizione, you can choose to display the secondary standing for drivers or based on the cup category. Otherwise, the car class is the other option for all other sims. If you are not playing ACC, the car class will be automatically selected.
+
 ### MFD
 The MFDs are the sections on the dashboard where, by setting a button or using the touch screen, you can scroll through various screens.
 In this section, you can completely disable a screen (by clicking on the main checkbox), or disable it only for the race and/or qualifying by unchecking the respective option.
