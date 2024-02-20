@@ -79,7 +79,7 @@ In this case, the amount of fuel shown is ***NOT*** including of or evaluating t
 
 This feature is more oriented toward endurance races.
 
-#### Fuel
+#### Fuel Box
 ![Fuel status](/src/images/docs/walkthrough/fuel.jpg)
 
 This section shows you:
