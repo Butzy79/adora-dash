@@ -46,6 +46,10 @@ There is an action named ***Standing.GapToLeader***.
 This option gives you the opportunity to change the difference between the leader or yourself.
 Assign it to your controller to interact during your session with this section.
 
+![Leader](/src/images/docs/triggers/leader.jpg) 
+
+![You](/src/images/docs/triggers/you.jpg)
+
 ## Standing scrolling standings 
 <sup>[___free___]</sup>
 You can set up your controller to interact with the standings in the MFD display.
@@ -63,9 +67,10 @@ There is an action named ***Standing.StandingCup***.
 This option gives you the opportunity to see your overall position or that of your category.
 Assign it to your controller to interact during your session with this section.
 
-![Leader](/src/images/docs/triggers/leader.jpg) 
-
-![You](/src/images/docs/triggers/you.jpg)
+## Pit Stint Time
+<sup>[___free___]</sup>
+You can increment and decrement the pit stint time for endurance races (same as in the plugin, but in real time during the race). 
+There are two actions: ***Pit.Decrement_StintTime*** and ***Pit.Increment_StintTime***. Assign both to your controller to interact during your session with those values.
 
 ## Strategy Time
 <sup>[___licensed___]</sup>
