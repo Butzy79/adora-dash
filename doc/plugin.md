@@ -62,17 +62,22 @@ Target temperature (dry/wet) is displayed on the dashboard as a target value, an
 
 ## Pit Settings Tab
 ![Pit Settings Tab](/src/images/docs/plugin/pit_settings.jpg)
+
 Set up your pit strategy and generic pit calculations.
-### Generic Settings
+#### Generic Settings
 - Pit Strategy Calculation: When you are in the pit lane, with the engine and ignition off, you have an extra MFD showing information about tires and, in the fuel position, details about the fuel strategy relative to a race length set using this slider.
 - Stint Time for Race: This value calculates the fuel to add at the next pit based on stint time and not the full remaining time of the race. In any case, if you set a stint longer than the tank capacity, the tank capacity will be shown as the fuel value to add at the next pit. (0 = full remaining time or maximum tank size of the car.)
-### Pit Generic Calculation
+#### Pit Generic Calculation
 This section, combined with the Tracks List tabs, provides you with the timing to calculate pit stops during the race and estimate your final position.
 - Pit Lane Length: If a specific pit lane length in seconds is not set in the Tracks List for your sim, this is the default value used.
 - Fuel added in one second: Please specify how much fuel (liters/gallons) is loaded into your car per second.
 - Extra fixed time to refuel: This parameter adds some extra seconds for refueling.
 - Pit time for changing tires: If you want the estimation of your pit stop to include changing tires, please set the amount of time it requires in seconds.
 
+## Tracks List Tab
+![Tracks List Tab](/src/images/docs/plugin/tracks.jpg)
+
+Here you can see all the tracks mapped in AdoraDash. If you want to add more tracks, please join our Discord server and help us fill in the missing data.
 
 ## Other Steps
 1. Step into [Action Buttons and Triggers](triggers.md) to seamlessly control AdoraDash.
