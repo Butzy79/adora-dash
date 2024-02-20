@@ -122,7 +122,7 @@ The target temperature set in the plugin is displayed at the bottom of the scree
 Tire pressure changes color according to targets: green indicates ideal, blue indicates lower than ideal, and red indicates higher than ideal. 
 Different gradients are shown for these colors.
 
-Please remember that you can change target temp during your driivng using the [Triggers](trigger.md#set-your-target-temperature).
+Please remember that you can change target temp during your driivng using the [Triggers](triggers.md#set-your-target-temperature).
 
 ---
 ![MFD Last Lap](/src/images/docs/walkthrough/mfd_lastlap.jpg)
@@ -133,13 +133,31 @@ Similar to the MFD above, but they will show the average values of the last lap 
 ![MFD Standings](/src/images/docs/walkthrough/mfd_standing.jpg)
 
 
+It displays the standings of the session. Be aware that you can customize the view using the appropriate [Triggers](triggers.md#change-standing-relative).
+You can: change the gap from the leader to you, scroll up and down the standings, re-center the standings on you, and change from OVERALL to CUP/CLASS/CATEGORY.
+
+---
 ![MFD Nearby](/src/images/docs/walkthrough/mfd_nearby.jpg)
 
+It displays the two drivers in front and the two drivers behind you on the track, not based on standings but physically in front or behind your current track position.
+
+---
 ![MFD Hammer Time](/src/images/docs/walkthrough/mfd_hammer.jpg)
 
+It is a special display that shows, based on standing position, who is in a better position than yours and who is behind (position-related, not track-related). It also tells you their last lap time, in how many laps you will catch them or push them away, and which time goal you need to set to achieve the catch (in front) or push (behind).
+
+For the driver in front:
+The catching laps value is green if you are coming closer, and red if they are faster than you. Try to set a goal time to catch the car.
+
+For the driver behind:
+The catching laps value is green if you are faster than them and dashes if they can't catch you in any way. If it is red, it means they are catching you. Try to set a goal time to push them away.
+
+---
 ![MFD Delta](/src/images/docs/walkthrough/mfd_delta.jpg)
 
---
+It displays the track map with all the drivers on it and a delta positive/negative of your lap.
+
+---
 ![MFD Track](/src/images/docs/walkthrough/mfd_track.jpg)
 
 It displays the track map with all the drivers on it.
