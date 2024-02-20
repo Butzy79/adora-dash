@@ -109,10 +109,25 @@ This second screen, accessible using Action D (please refer to the [Action Butto
 
 #### MFDs box
 Those screens, accessible using Action A (please refer to the [Action Buttons and Triggers](triggers.md) section), are the core value of AdoraDash.
+
 You can activate/deactivate them in the [Plugin](plugin.md#MFD) section.
 Each screen provides unique information about the session in which you are driving.
 
+![MFD Tyres](/src/images/docs/walkthrough/mfd_tyre.jpg)
 
+![MFD Last Lap](/src/images/docs/walkthrough/mfd_lastlap.jpg)
+
+![MFD Standings](/src/images/docs/walkthrough/mfd_standing.jpg)
+
+![MFD Nearby](/src/images/docs/walkthrough/mfd_nearby.jpg)
+
+![MFD Hammer Time](/src/images/docs/walkthrough/mfd_hammer.jpg)
+
+![MFD Delta](/src/images/docs/walkthrough/mfd_delta.jpg)
+
+![MFD Track](/src/images/docs/walkthrough/mfd_track.jpg)
+
+![MFD Damages](/src/images/docs/walkthrough/mfd_damage.jpg)
 ## Track Screen
 ***PLEASE READ [Action Buttons and Triggers](triggers.md) SECTION to understand how to interact with AdoraDashboard and reach this screen***
 
