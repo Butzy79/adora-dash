@@ -1,5 +1,5 @@
 # CHANGELOG
-### 0.8.1 (2024-02-25)
+### 0.8.1 (2024-02-21)
 - Fix: Le Mans Ultimate stansing class fix view
 
 ### 0.8.1 (2024-02-20)
