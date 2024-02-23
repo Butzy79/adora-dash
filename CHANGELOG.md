@@ -1,6 +1,7 @@
 # CHANGELOG
 ### 0.9.0 (2024-02-28)
 - New: Pit Strategies more detailed
+- New: Trigger to set tyres change for pit estimation.
 
 ### 0.8.2 (2024-02-21)
 - Fix: Le Mans Ultimate standings class fix view
