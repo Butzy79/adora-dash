@@ -81,7 +81,9 @@ This second screen, accessible using Action C (please refer to the [Action Butto
 - The amount of fuel you need to refill to complete the race.
 - The total pit stop time, including entering and exiting the pit lane and the time allocated for changing tires.
 - The predicted position at the end of the pit stop.
-
+- Tyres Change: estimated pit time includes a tyre change or not.  
+  For this feature, please set your trigger: [Tyre Change at Pit](triggers.md#tyres-change-at-pit)
+  
 Please remember that the refill value includes the amount of fuel currently in your tank.
 
 ![Pit Stint Box](/src/images/docs/walkthrough/pit_stint.jpg)
@@ -114,7 +116,6 @@ You can activate/deactivate them in the [Plugin](plugin.md#MFD) section.
 Each screen provides unique information about the session in which you are driving.
 
 ![MFD Tyres](/src/images/docs/walkthrough/mfd_tyre.jpg)
-
 It shows real-time values for tire temperature and PSI, as well as brake temperature.
 For sims that support it, tire wear is also displayed.
 Additionally, it shows the number of tire sets you are using and indicates whether you have wet or dry tires mounted.
