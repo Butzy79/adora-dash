@@ -14,9 +14,6 @@ Join the vibrant AdoraDash community on Discord!
 
 👉 [AdoraDash Discord Server](https://discord.gg/2yNzuRc62S) 👈
 
-## Sponsored by
-AdoraDash is Sponsored by the 👉 [Omega Motorsport Italia](https://linktr.ee/OMEGA_MOTORSPORT_ITALIA) 👈 team.
-
 ![Omega](/src/images/docs/sponsor/omega.png)
 
 ## Disclaimer
