@@ -75,11 +75,17 @@ Set up your pit strategy and generic pit calculations.
 #### Generic Settings
 - Pit Strategy Calculation: When you are in the pit lane, with the engine and ignition off, you have an extra MFD showing information about tires and, in the fuel position, details about the fuel strategy relative to a race length set using this slider.
 - Stint Time for Race: This value calculates the fuel to add at the next pit based on stint time and not the full remaining time of the race. In any case, if you set a stint longer than the tank capacity, the tank capacity will be shown as the fuel value to add at the next pit. (0 = full remaining time or maximum tank size of the car.)
-#### Pit Generic Calculation
+#### Pit Generic Values
 This section, combined with the Tracks List tabs, provides you with the timing to calculate pit stops during the race and estimate your final position.
 - Pit Lane Length: If a specific pit lane length in seconds is not set in the Tracks List for your sim, this is the default value used.
-- Fuel added in one second: Please specify how much fuel (liters/gallons) is loaded into your car per second.
-- Extra fixed time to refuel: This parameter adds some extra seconds for refueling.
+
+#### Pit Stop
+This section contains all the pit stop information to estimate your race pit stop and your position on the track after the pit.
+- Tyre change and refuel done simultaneously: If this value is checked, the time for changing tires and the time spent for refueling are calculated to be done simultaneously; otherwise, they will be added one after the other.
+- Fuel Fixed Time (checkbox): If this value is checked, it doesn't matter how much fuel you add—whether it's one liter or a hundred—the time remains the same (similar to LFM races).
+- Fuel Fixed Time (slider): If the box is checked, you have to set the fixed time for refueling; otherwise, it is not visible.
+- Fuel added in one second: Please specify how much fuel (liters/gallons) is loaded into your car per second. (visible if 'Fuel Fixed Time' is unchecked)
+- Extra fixed time to refuel: This parameter adds some extra seconds for refueling. (visible if 'Fuel Fixed Time' is unchecked)
 - Pit time for changing tires: If you want the estimation of your pit stop to include changing tires, please set the amount of time it requires in seconds.
 
 ## Tracks List Tab

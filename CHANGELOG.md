@@ -1,5 +1,5 @@
 # CHANGELOG
-### 0.9.0 (2024-03-1)
+### 0.9.0 (2024-02-28)
 - New: Pit Strategies more detailed
 
 ### 0.8.2 (2024-02-21)
