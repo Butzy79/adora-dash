@@ -1,6 +1,9 @@
 # CHANGELOG
-### 0.8.1 (2024-02-21)
-- Fix: Le Mans Ultimate stansing class fix view
+### 0.9.0 (2024-03-1)
+- New: Pit Strategies more detailed
+
+### 0.8.2 (2024-02-21)
+- Fix: Le Mans Ultimate standings class fix view
 
 ### 0.8.1 (2024-02-20)
 - New: Le Mans Ultimate Support

@@ -82,6 +82,15 @@ There are two actions: ***Strategy.Decrement_TimeInMinutes*** and ***Strategy.In
 You can set up your controller to interact with the target temperature of your tires. 
 There are two actions: ***Tyre.Decrement_TargetTemp*** and ***Tyre.Increment_TargetTemp***. Assign both to your controller to interact during your session with those values.
 
+## Tyres Change at pit
+<sup>[___free___]</sup>
+You can set up your controller to indicate whether you want to change tires at the next pit stop.
+There is an action named ***Pit.TyresChange***.
+This option defaults to changing tires, and the pit calculation includes this value. 
+
+Please ensure that your plugin is correctly configured in the Pit Settings section.
+Assign it to your controller to interact during your session with pit section.
+
 ## Other Steps
 1. Step into [Adora Plugin](plugin.md) to experience AdoraDash.
 2. A last step to know AdoraDash in all its functionality: [Walkthrough AdoraDash](walkthrough.md) to seamlessly control AdoraDash.
