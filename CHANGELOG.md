@@ -2,7 +2,7 @@
 ### 0.9.0 (2024-02-28)
 - New: Pit Strategies more detailed
 - New: Trigger to set tyres change for pit estimation.
-- New: Yellow Flag sectors (1/2/3) for ACC and rF2.
+- New: Yellow Flag sectors (1/2/3) for ACC and rF2 and Le Mans Ultimate.
 - Fix: Upgrade screen indicates which file is incorrect.
 
 ### 0.8.2 (2024-02-21)
