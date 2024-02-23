@@ -83,7 +83,7 @@ This section, combined with the Tracks List tabs, provides you with the timing t
 This section contains all the pit stop information to estimate your race pit stop and your position on the track after the pit.
 - Tyre change and refuel done simultaneously: If this value is checked, the time for changing tires and the time spent for refueling are calculated to be done simultaneously; otherwise, they will be added one after the other.
 - Fuel Fixed Time (checkbox): If this value is checked, it doesn't matter how much fuel you add—whether it's one liter or a hundred—the time remains the same (similar to LFM races).
-- Fuel Fixed Time (slider): If the box is checked, you have to set the fixed time for refueling; otherwise, it is not visible.
+- Fuel Fixed Time (slider): If the box is checked, you have to set the fixed time in seconds for refueling; otherwise, it is not visible.
 - Fuel added in one second: Please specify how much fuel (liters/gallons) is loaded into your car per second. (visible if 'Fuel Fixed Time' is unchecked)
 - Extra fixed time to refuel: This parameter adds some extra seconds for refueling. (visible if 'Fuel Fixed Time' is unchecked)
 - Pit time for changing tires: If you want the estimation of your pit stop to include changing tires, please set the amount of time it requires in seconds.
