@@ -1,8 +1,9 @@
 # CHANGELOG
 ### 0.9.0 (2024-02-28)
-- New: Pit Strategies more detailed
+- New: Pit Strategies more detailed.
 - New: Trigger to set tyres change for pit estimation.
 - New: Yellow Flag sectors (1/2/3) for ACC and rF2 and Le Mans Ultimate.
+- New: Optional download of AdoraDash updates.
 - Fix: Upgrade screen indicates which file is incorrect.
 - Fix: Strategy fuel and Tyres set for a stint of 4 laps.
 
