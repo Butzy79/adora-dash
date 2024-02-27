@@ -55,6 +55,11 @@ This is the main box to track your time and position. You can see:
 
 Here, information about the lights, rain lights, wiper speed, and blinker of your car is displayed. Next to it, you will see the engine map value of your car.
 
+##### iRacing:
+![Functions ana map](/src/images/docs/walkthrough/functions.jpg)
+
+In iRacing you have a specific view showing incidents.
+
 By using the touchscreen or Trigger Action B on your controller, you can switch between viewing functions and real clock time.
 Assetto Corsa and other simulators display only this screen, as the other screen is not compatible with the simulator.
 ![Clock Time](/src/images/docs/walkthrough/clock_time.jpg)
