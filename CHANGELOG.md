@@ -7,6 +7,7 @@
 - Fix: Upgrade screen indicates which file is incorrect.
 - Fix: Strategy fuel and Tyres set for a stint of 4 laps.
 - Fix: iRacing Flashlights on Functions display.
+- Fix: Standings one class uncolored.
 
 ### 0.8.2 (2024-02-21)
 - Fix: Le Mans Ultimate standings class fix view
