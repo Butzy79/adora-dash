@@ -2,6 +2,7 @@
 ### 0.9.0 (2024-02-28)
 - New: Pit Strategies more detailed.
 - New: iRacing Inc Counter.
+- New: iRacing Tyres wear.
 - New: Trigger to set tyres change for pit estimation.
 - New: Yellow Flag sectors (1/2/3) for ACC and rF2 and Le Mans Ultimate.
 - New: Optional download of AdoraDash updates.
