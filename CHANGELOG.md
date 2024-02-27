@@ -1,6 +1,18 @@
 # CHANGELOG
-### 0.8.1 (2024-02-21)
-- Fix: Le Mans Ultimate stansing class fix view
+### 0.9.0 (2024-02-27)
+- New: Pit Strategies more detailed.
+- New: iRacing Inc Counter.
+- New: iRacing Tyres wear.
+- New: Trigger to set tyres change for pit estimation.
+- New: Yellow Flag sectors (1/2/3) for ACC and rF2 and Le Mans Ultimate.
+- New: Optional download of AdoraDash updates.
+- Fix: Upgrade screen indicates which file is incorrect.
+- Fix: Strategy fuel and Tyres set for a stint of 4 laps.
+- Fix: iRacing Flashlights on Functions display.
+- Fix: Standings one class uncolored.
+
+### 0.8.2 (2024-02-21)
+- Fix: Le Mans Ultimate standings class fix view
 
 ### 0.8.1 (2024-02-20)
 - New: Le Mans Ultimate Support
