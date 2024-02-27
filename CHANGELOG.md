@@ -1,5 +1,5 @@
 # CHANGELOG
-### 0.9.0 (2024-02-28)
+### 0.9.0 (2024-02-27)
 - New: Pit Strategies more detailed.
 - New: iRacing Inc Counter.
 - New: iRacing Tyres wear.
