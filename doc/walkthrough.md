@@ -56,7 +56,7 @@ This is the main box to track your time and position. You can see:
 Here, information about the lights, rain lights, wiper speed, and blinker of your car is displayed. Next to it, you will see the engine map value of your car.
 
 ##### iRacing:
-![Functions ana map](/src/images/docs/walkthrough/functions.jpg)
+![Functions ana map](/src/images/docs/walkthrough/functions_iracing.jpg)
 
 In iRacing you have a specific view showing incidents.
 
