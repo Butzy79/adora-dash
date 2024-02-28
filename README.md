@@ -9,6 +9,11 @@ The ongoing development stage will see the integration of additional simulators,
 ## Documentation and Installation
 You can find the official documentation here: [Documentation table of contents](/doc/TOC.md)
 
+## Lifetime License
+If you wish to obtain a lifetime license, please contact us via email or Discord. Share your story with us, and we'll be happy to provide you with a Promo Code that grants you a lifetime license free of charge.
+
+***Note***: This project is non-profit and aims to assist and support individuals with disabilities and difficulties. It provides them with a tool to enhance their simracing experience, contributing to their enjoyment and inclusivity.
+
 ## Discord Community
 Join the vibrant AdoraDash community on Discord!
 
