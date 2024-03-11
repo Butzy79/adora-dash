@@ -1,4 +1,7 @@
 # CHANGELOG
+### 0.10.0 (unreleased)
+- Fix: Pit limiter overview.
+
 ### 0.9.0 (2024-02-27)
 - New: Pit Strategies more detailed.
 - New: iRacing Inc Counter.
