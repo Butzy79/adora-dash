@@ -1,5 +1,6 @@
 # CHANGELOG
-### 0.10.1 (unreleased)
+### 0.10.1 (2024-03-25)
+- New: iRacing full integration.
 - Fix: Pit limiter overview.
 - Fix: iRacing comma values for refuel.
 - Fix: Rain and Weather in iRacing.
