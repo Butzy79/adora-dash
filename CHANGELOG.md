@@ -3,6 +3,7 @@
 - Fix: Pit limiter overview.
 - Fix: iRacing comma values for refuel.
 - Fix: Rain and Weather in iRacing.
+- Fix: Rain tyres.
 
 ### 0.9.0 (2024-02-27)
 - New: Pit Strategies more detailed.
