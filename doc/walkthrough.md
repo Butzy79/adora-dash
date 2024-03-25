@@ -121,6 +121,7 @@ You can activate/deactivate them in the [Plugin](plugin.md#MFD) section.
 Each screen provides unique information about the session in which you are driving.
 
 ![MFD Tyres](/src/images/docs/walkthrough/mfd_tyre.jpg)
+
 It shows real-time values for tire temperature and PSI, as well as brake temperature.
 For sims that support it, tire wear is also displayed.
 Additionally, it shows the number of tire sets you are using and indicates whether you have wet or dry tires mounted.
@@ -138,7 +139,6 @@ Similar to the MFD above, but they will show the average values of the last lap 
 ---
 ![MFD Standings](/src/images/docs/walkthrough/mfd_standing.jpg)
 
-
 It displays the standings of the session. Be aware that you can customize the view using the appropriate [Triggers](triggers.md#change-standing-relative).
 You can: change the gap from the leader to you, scroll up and down the standings, re-center the standings on you, and change from OVERALL to CUP/CLASS/CATEGORY.
 
@@ -150,6 +150,7 @@ It displays the two drivers in front and the two drivers behind you on the track
 If the identified driver is in your class, the background of the position will be colored.
 If the driver ahead of you is behind you from a positional standpoint (meaning they will be lapped soon), the position text color will be blue. 
 Similarly, if the driver behind you on the track has a better position than you (meaning they will lap you soon), the position text color will be dark red.
+
 ---
 ![MFD Hammer Time](/src/images/docs/walkthrough/mfd_hammer.jpg)
 
