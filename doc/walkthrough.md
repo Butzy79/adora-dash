@@ -150,7 +150,6 @@ It displays the two drivers in front and the two drivers behind you on the track
 If the identified driver is in your class, the background of the position will be colored. 
 
 If the driver ahead of you is behind you from a positional standpoint (meaning they will be lapped soon), the position text color will be blue. 
-
 Similarly, if the driver behind you on the track has a better position than you (meaning they will lap you soon), the position text color will be dark red.
 ---
 ![MFD Hammer Time](/src/images/docs/walkthrough/mfd_hammer.jpg)

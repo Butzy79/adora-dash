@@ -1,5 +1,4 @@
 # CHANGELOG
-
 ### 0.10.1 (2024-03-25)
 - New: iRacing full integration.
 - New: Nearby Position improvement.
