@@ -1,4 +1,13 @@
 # CHANGELOG
+### 1.1.0 (2026-08-16)
+- New: Pit limiter color changed
+- New: Fuel Strategy shown scrolling Fuel Widget
+- New: Strategy set in minutes or laps inside the plugin setting
+
+### 1.0.2 (2026-07-01)
+- New: Automobilista 2 weather integration and other improvement
+- New: Background category changed
+
 ### 0.10.1 (2024-03-25)
 - New: iRacing full integration.
 - New: Nearby Position improvement.
