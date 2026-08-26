@@ -1,4 +1,7 @@
 # CHANGELOG
+### 1.2.0 (2026-08-26)
+- New: Speed Helper for Rolling Starts
+
 ### 1.1.0 (2026-08-16)
 - New: Pit limiter color changed
 - New: Fuel Strategy shown scrolling Fuel Widget
