@@ -1,4 +1,7 @@
 # CHANGELOG
+### 1.3.0 (2026-09-11)
+- New: Speed Helper for Rolling Starts colors
+
 ### 1.2.0 (2026-08-26)
 - New: Speed Helper for Rolling Starts
 
