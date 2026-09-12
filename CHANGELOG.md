@@ -1,4 +1,7 @@
 # CHANGELOG
+### 1.4.0 (2026-09-12)
+- New: Lap + 1
+
 ### 1.3.0 (2026-09-11)
 - New: Speed Helper for Rolling Starts colors
 
